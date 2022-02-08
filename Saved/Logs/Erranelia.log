@@ -16972,3 +16972,2213 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-16.19.00:655][639]LogPlayLevel: Display: Destroying online subsystem :Context_60
 [2022.02.08-16.19.21:219][852]BlueprintLog: New page: Compile MyCharacter
 [2022.02.08-16.19.21:284][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.08-16.21.34:688][880]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.08-16.21.34:688][880]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.08-16.21.38:173][ 86]LogEditorViewport: Clicking on Actor (LMB): Dagger_C (Dagger)
+[2022.02.08-16.21.39:290][152]Cmd: DELETE
+[2022.02.08-16.21.39:290][152]Cmd: ACTOR DELETE
+[2022.02.08-16.21.39:295][152]LogEditorActor: Deleted Actor: Dagger_C
+[2022.02.08-16.21.39:325][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.02.08-16.21.39:327][152]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.02.08-16.21.40:169][203]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.21.40:176][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.21.40:176][203]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:21:40)
+[2022.02.08-16.21.40:176][203]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.21.40:179][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002688s)
+[2022.02.08-16.21.40:180][203]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.21.40:180][203]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2022.02.08-16.21.40:180][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.004011s)
+[2022.02.08-16.21.40:207][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.08-16.21.40:207][203]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.02.08-16.21.40:207][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.21.40:207][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.21.40:208][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.21.40:208][203]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.21.40:208][203]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.21.40:211][203]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.21.40:211][203]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.21.40:366][203]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.21.40:366][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.21.40:366][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.21.40:366][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.21.40:367][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.21.40:367][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.21.40:367][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.21.40:369][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.21.40:369][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.21.40:369][203]LogInit: FAudioDevice initialized.
+[2022.02.08-16.21.40:369][203]LogAudio: Display: Audio Device (ID: 45) registered with world 'Level1'.
+[2022.02.08-16.21.40:382][203]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.21.40:383][203]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.21.40:383][203]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.21.40:384][203]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.21.40:384][203]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.21.40:384][203]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.21.40
+[2022.02.08-16.21.40:384][203]LogWorld: Bringing up level for play took: 0.001099
+[2022.02.08-16.21.40:384][203]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.02.08-16.21.40:389][203]PIE: Server logged in
+[2022.02.08-16.21.40:390][203]PIE: Play in editor total start time 0,215 seconds.
+[2022.02.08-16.21.40:391][203]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:406][204]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:421][205]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:478][206]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:519][207]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:563][208]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:579][209]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:596][210]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:613][211]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:629][212]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:646][213]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:663][214]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:680][215]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:697][216]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:713][217]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:730][218]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:747][219]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:763][220]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:780][221]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:797][222]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:813][223]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:829][224]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:846][225]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:867][226]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:880][227]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:896][228]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:913][229]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:930][230]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:947][231]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:964][232]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:980][233]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.40:997][234]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:014][235]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:031][236]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:047][237]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:064][238]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:080][239]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:098][240]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:113][241]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:130][242]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:146][243]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:163][244]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:180][245]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:197][246]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:213][247]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:229][248]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:246][249]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:263][250]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:280][251]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:297][252]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:313][253]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:330][254]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:347][255]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:363][256]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:380][257]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:397][258]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:414][259]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:431][260]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:447][261]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:466][262]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:481][263]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:497][264]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:513][265]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:530][266]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:547][267]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:564][268]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:580][269]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:598][270]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:614][271]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:630][272]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:647][273]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:664][274]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:681][275]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:697][276]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:714][277]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:731][278]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:747][279]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:764][280]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:780][281]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:797][282]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:813][283]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:830][284]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:846][285]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:863][286]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:880][287]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:896][288]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:913][289]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:930][290]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:947][291]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:963][292]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:980][293]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.41:997][294]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:014][295]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:030][296]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:047][297]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:063][298]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:080][299]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:096][300]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:113][301]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:130][302]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:147][303]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:163][304]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:180][305]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:196][306]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:213][307]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:230][308]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:247][309]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:265][310]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:280][311]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:297][312]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:316][313]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:331][314]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:347][315]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:364][316]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:379][317]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:396][318]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:413][319]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:430][320]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:447][321]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:465][322]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:481][323]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:497][324]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:516][325]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:534][326]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:547][327]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:565][328]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:581][329]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:598][330]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:614][331]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:631][332]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:648][333]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:666][334]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:681][335]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:698][336]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:715][337]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:730][338]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:747][339]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:765][340]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:780][341]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:797][342]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:813][343]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:830][344]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:847][345]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:864][346]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:881][347]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:899][348]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:916][349]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:931][350]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:947][351]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:963][352]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:980][353]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.42:997][354]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:014][355]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:030][356]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:047][357]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:064][358]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:081][359]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:096][360]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:113][361]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:130][362]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:148][363]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:163][364]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:180][365]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:197][366]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:214][367]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.43:246][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.21.43:246][367]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.21.43:246][367]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.21.43:247][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.21.43:261][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.21.43:265][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.21.43:289][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.21.43:289][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.21.43:290][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.21.43:317][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.08-16.21.43:368][368]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.02.08-16.21.57:535][204]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.21.57:542][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.21.57:542][204]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:21:57)
+[2022.02.08-16.21.57:543][204]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.21.57:547][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004645s)
+[2022.02.08-16.21.57:548][204]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.21.57:548][204]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2022.02.08-16.21.57:549][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.005935s)
+[2022.02.08-16.21.57:575][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.02.08-16.21.57:577][204]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.21.57:577][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.21.57:577][204]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.21.57:577][204]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.21.57:579][204]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.21.57:579][204]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.21.57:726][204]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.21.57:727][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.21.57:727][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.21.57:727][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.21.57:728][204]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.21.57:728][204]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.21.57:728][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.21.57:732][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.21.57:732][204]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.21.57:732][204]LogInit: FAudioDevice initialized.
+[2022.02.08-16.21.57:732][204]LogAudio: Display: Audio Device (ID: 46) registered with world 'Level1'.
+[2022.02.08-16.21.57:749][204]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.21.57:750][204]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.21.57:750][204]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.21.57:750][204]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.21.57:751][204]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.21.57:751][204]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.21.57
+[2022.02.08-16.21.57:751][204]LogWorld: Bringing up level for play took: 0.001254
+[2022.02.08-16.21.57:751][204]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.02.08-16.21.57:757][204]PIE: Server logged in
+[2022.02.08-16.21.57:758][204]PIE: Play in editor total start time 0,217 seconds.
+[2022.02.08-16.21.57:759][204]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:774][205]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:789][206]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:849][207]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:891][208]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:932][209]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:972][210]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.57:988][211]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:005][212]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:022][213]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:038][214]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:056][215]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:072][216]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:089][217]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:106][218]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:122][219]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:139][220]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:159][221]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:173][222]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:190][223]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:207][224]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:223][225]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:240][226]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:257][227]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:274][228]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:290][229]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:306][230]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:323][231]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:339][232]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:356][233]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:372][234]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:389][235]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:406][236]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:422][237]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:439][238]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:456][239]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:474][240]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:490][241]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:506][242]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:523][243]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:539][244]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:556][245]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:573][246]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:589][247]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:606][248]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:623][249]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:639][250]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:656][251]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:673][252]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:690][253]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:705][254]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:722][255]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:739][256]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:755][257]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:772][258]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:789][259]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:806][260]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:822][261]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:839][262]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:857][263]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:873][264]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:890][265]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:906][266]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:923][267]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:939][268]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:956][269]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:973][270]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.58:990][271]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:006][272]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:023][273]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:040][274]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:056][275]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:073][276]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:090][277]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:107][278]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:124][279]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:140][280]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:157][281]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:174][282]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:191][283]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:207][284]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:224][285]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:241][286]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:258][287]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:273][288]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:290][289]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:307][290]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:323][291]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:339][292]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:356][293]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:373][294]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:390][295]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:406][296]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:422][297]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:440][298]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:457][299]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:473][300]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:490][301]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:507][302]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:524][303]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:540][304]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:556][305]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:573][306]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:590][307]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:607][308]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:623][309]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:640][310]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:656][311]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:673][312]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:689][313]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:706][314]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:723][315]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:740][316]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:756][317]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:773][318]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:790][319]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:806][320]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:822][321]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:839][322]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:856][323]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:872][324]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:889][325]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:906][326]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:922][327]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:939][328]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:956][329]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:973][330]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.21.59:989][331]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:006][332]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:023][333]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:040][334]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:057][335]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:074][336]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:090][337]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:107][338]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:124][339]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:140][340]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:157][341]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:173][342]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:189][343]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:206][344]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:223][345]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:240][346]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:256][347]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:273][348]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:290][349]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:307][350]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:323][351]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:340][352]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:357][353]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:373][354]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:390][355]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:407][356]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:425][357]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:442][358]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:459][359]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:475][360]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:491][361]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:508][362]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:525][363]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:541][364]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:558][365]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:575][366]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:591][367]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:608][368]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:625][369]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:641][370]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:657][371]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:674][372]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:691][373]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:708][374]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:725][375]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:741][376]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:757][377]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:774][378]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:791][379]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:808][380]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:824][381]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:841][382]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:857][383]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:874][384]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:891][385]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:908][386]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:924][387]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:941][388]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:958][389]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:974][390]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.00:991][391]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:008][392]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:024][393]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:041][394]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:057][395]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:075][396]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:091][397]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:108][398]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:125][399]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:141][400]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:158][401]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:173][402]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:190][403]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:207][404]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:224][405]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:240][406]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:257][407]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:274][408]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:290][409]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:307][410]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:323][411]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:341][412]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:357][413]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:373][414]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:391][415]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:407][416]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:424][417]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:441][418]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:458][419]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:475][420]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:490][421]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:507][422]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:526][423]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:541][424]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:558][425]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:575][426]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:591][427]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:608][428]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:625][429]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:641][430]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:659][431]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:675][432]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:691][433]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:708][434]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:725][435]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:741][436]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:758][437]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:775][438]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:792][439]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:807][440]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:825][441]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:840][442]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:857][443]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:874][444]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:892][445]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:907][446]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:924][447]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:941][448]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:957][449]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:974][450]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.01:991][451]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:007][452]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:025][453]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:041][454]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:058][455]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:076][456]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:092][457]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:108][458]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:125][459]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:141][460]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:158][461]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:174][462]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:190][463]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:207][464]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:224][465]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:241][466]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:258][467]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:275][468]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:291][469]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:307][470]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:325][471]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:341][472]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:357][473]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:375][474]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:391][475]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:408][476]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:425][477]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:441][478]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:458][479]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:475][480]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:491][481]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:508][482]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:526][483]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:541][484]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:557][485]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:575][486]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:591][487]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:607][488]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:625][489]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:641][490]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:657][491]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:675][492]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:691][493]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:708][494]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:726][495]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:742][496]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:758][497]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:776][498]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:791][499]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:808][500]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:825][501]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:841][502]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:858][503]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:877][504]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:891][505]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:909][506]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:926][507]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.22.02:957][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.22.02:957][507]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.22.02:957][507]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.22.02:957][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.22.02:971][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.22.02:975][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.22.02:999][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.22.02:999][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.22.03:000][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.22.03:028][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.02.08-16.22.03:078][508]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.02.08-16.22.45:528][531]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.08-16.22.45:528][531]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.08-16.23.27:305][987]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.23.27:370][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.08-16.23.28:989][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.23.28:995][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.23.28:995][ 78]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:23:28)
+[2022.02.08-16.23.28:995][ 78]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.23.28:998][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2022.02.08-16.23.28:999][ 78]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.23.29:000][ 78]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.02.08-16.23.29:000][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.004154s)
+[2022.02.08-16.23.29:026][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.02.08-16.23.29:027][ 78]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.23.29:028][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.23.29:028][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.23.29:028][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.23.29:031][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.23.29:031][ 78]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.23.29:169][ 78]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.23.29:170][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.23.29:173][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.23.29:173][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.23.29:173][ 78]LogInit: FAudioDevice initialized.
+[2022.02.08-16.23.29:173][ 78]LogAudio: Display: Audio Device (ID: 47) registered with world 'Level1'.
+[2022.02.08-16.23.29:183][ 78]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.23.29:184][ 78]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.23.29:184][ 78]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.23.29:184][ 78]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.23.29:184][ 78]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.23.29:185][ 78]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.23.29
+[2022.02.08-16.23.29:185][ 78]LogWorld: Bringing up level for play took: 0.001471
+[2022.02.08-16.23.29:185][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.02.08-16.23.29:190][ 78]PIE: Server logged in
+[2022.02.08-16.23.29:191][ 78]PIE: Play in editor total start time 0,198 seconds.
+[2022.02.08-16.23.29:192][ 78]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:208][ 79]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:224][ 80]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:282][ 81]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:322][ 82]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:366][ 83]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:383][ 84]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:400][ 85]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:417][ 86]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:433][ 87]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:450][ 88]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:467][ 89]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:483][ 90]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:500][ 91]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:516][ 92]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:533][ 93]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:550][ 94]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:569][ 95]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:583][ 96]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:599][ 97]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:616][ 98]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:633][ 99]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:650][100]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:667][101]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:683][102]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:700][103]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:717][104]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:734][105]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:751][106]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:767][107]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:784][108]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:800][109]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:817][110]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:835][111]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:851][112]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:867][113]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:884][114]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:900][115]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:917][116]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:933][117]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:949][118]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:966][119]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:983][120]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.29:999][121]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:016][122]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:033][123]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:050][124]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:066][125]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:083][126]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:101][127]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:117][128]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:133][129]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:150][130]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:167][131]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:184][132]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:200][133]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:217][134]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:234][135]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:251][136]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:267][137]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:284][138]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:301][139]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:316][140]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:333][141]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:350][142]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:367][143]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:383][144]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:400][145]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:417][146]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:434][147]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:450][148]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:467][149]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:484][150]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:501][151]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:517][152]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:534][153]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:550][154]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:567][155]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:584][156]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:601][157]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:617][158]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:635][159]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:651][160]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:668][161]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:684][162]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:701][163]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:718][164]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:735][165]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:751][166]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:768][167]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:784][168]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:800][169]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:817][170]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:834][171]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:850][172]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:867][173]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:884][174]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:901][175]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:917][176]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:934][177]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:951][178]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:968][179]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.30:986][180]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:001][181]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:019][182]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:035][183]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:052][184]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:069][185]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:085][186]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:102][187]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:119][188]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:135][189]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:151][190]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:168][191]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:184][192]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:201][193]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:217][194]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:234][195]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:251][196]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:268][197]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:284][198]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:301][199]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:317][200]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:335][201]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:351][202]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:367][203]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:384][204]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:401][205]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:417][206]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:434][207]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:451][208]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:468][209]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:485][210]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:501][211]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:517][212]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:534][213]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:551][214]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:567][215]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:584][216]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:600][217]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:617][218]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:634][219]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:650][220]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:667][221]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:684][222]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:701][223]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:718][224]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:735][225]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:751][226]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:768][227]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:785][228]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:801][229]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:818][230]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:835][231]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:851][232]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:868][233]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:883][234]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:900][235]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:917][236]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:934][237]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:950][238]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:967][239]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.31:985][240]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.32:026][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.23.32:026][240]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.23.32:026][240]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.23.32:026][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.23.32:041][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.23.32:045][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.23.32:070][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.23.32:071][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.23.32:072][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.23.32:093][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.23.32:097][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.08-16.23.32:148][241]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.02.08-16.23.39:818][678]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.23.39:878][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.08-16.23.41:263][751]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.23.41:269][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.23.41:270][751]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:23:41)
+[2022.02.08-16.23.41:295][751]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.23.41:297][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002698s)
+[2022.02.08-16.23.41:298][751]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.23.41:299][751]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2022.02.08-16.23.41:299][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.003955s)
+[2022.02.08-16.23.41:326][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.08-16.23.41:327][751]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.23.41:327][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.23.41:327][751]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.23.41:327][751]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.23.41:330][751]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.23.41:330][751]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.23.41:471][751]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.23.41:472][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.23.41:472][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.23.41:472][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.23.41:472][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.23.41:472][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.23.41:472][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.23.41:475][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.23.41:475][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.23.41:475][751]LogInit: FAudioDevice initialized.
+[2022.02.08-16.23.41:476][751]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level1'.
+[2022.02.08-16.23.41:492][751]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.23.41:493][751]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.23.41:493][751]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.23.41:493][751]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.23.41:493][751]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.23.41:493][751]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.23.41
+[2022.02.08-16.23.41:493][751]LogWorld: Bringing up level for play took: 0.001078
+[2022.02.08-16.23.41:494][751]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.02.08-16.23.41:499][751]PIE: Server logged in
+[2022.02.08-16.23.41:500][751]PIE: Play in editor total start time 0,232 seconds.
+[2022.02.08-16.23.41:501][751]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:512][752]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:529][753]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:597][754]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:614][755]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:631][756]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:647][757]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:664][758]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:680][759]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:697][760]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:714][761]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:731][762]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:747][763]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:764][764]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:780][765]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:800][766]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:814][767]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:831][768]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:847][769]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:865][770]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:881][771]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:898][772]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:915][773]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:931][774]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:948][775]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:964][776]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:981][777]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.41:998][778]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:015][779]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:032][780]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:047][781]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:065][782]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:081][783]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:098][784]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:115][785]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:131][786]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:148][787]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:164][788]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:182][789]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:198][790]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:215][791]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:231][792]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:248][793]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:265][794]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:281][795]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:298][796]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:315][797]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:332][798]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:349][799]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:365][800]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:382][801]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:398][802]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:415][803]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:432][804]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:449][805]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:491][806]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:502][807]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:519][808]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:537][809]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:554][810]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:569][811]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:586][812]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:603][813]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:620][814]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:637][815]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:653][816]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:670][817]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:686][818]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:703][819]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:720][820]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:737][821]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:753][822]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:770][823]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:787][824]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:802][825]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:820][826]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:836][827]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:853][828]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:870][829]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:887][830]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:902][831]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:919][832]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:936][833]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:952][834]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:969][835]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.42:985][836]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:002][837]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:019][838]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:036][839]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:052][840]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:069][841]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:085][842]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:102][843]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:119][844]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:136][845]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:153][846]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:170][847]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:187][848]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:203][849]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:220][850]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:237][851]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:254][852]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:269][853]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:286][854]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:303][855]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:320][856]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:337][857]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:353][858]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:370][859]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:387][860]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:403][861]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:419][862]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:436][863]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:453][864]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:469][865]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:486][866]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:502][867]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:519][868]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:536][869]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:553][870]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:569][871]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:586][872]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:603][873]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:619][874]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:636][875]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:652][876]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:669][877]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:685][878]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:702][879]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:719][880]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:735][881]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:752][882]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:769][883]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:786][884]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:802][885]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:819][886]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:836][887]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:852][888]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:869][889]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:886][890]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:902][891]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:919][892]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:936][893]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:953][894]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:970][895]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.43:987][896]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:003][897]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:020][898]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:037][899]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:053][900]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:070][901]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:086][902]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:102][903]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:119][904]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:136][905]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:153][906]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:170][907]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:187][908]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:203][909]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:219][910]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:236][911]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:253][912]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:270][913]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:286][914]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:302][915]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:319][916]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:336][917]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:353][918]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.23.44:386][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.23.44:386][918]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.23.44:386][918]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.23.44:387][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.23.44:397][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.23.44:401][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.23.44:426][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.23.44:426][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.23.44:427][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.23.44:451][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.23.44:455][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.08-16.23.44:508][919]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.02.08-16.24.27:634][449]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.24.27:695][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.08-16.24.29:196][535]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.24.29:203][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.24.29:203][535]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:24:29)
+[2022.02.08-16.24.29:203][535]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.24.29:206][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2022.02.08-16.24.29:207][535]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.24.29:207][535]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2022.02.08-16.24.29:207][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.004298s)
+[2022.02.08-16.24.29:235][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.08-16.24.29:236][535]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.24.29:236][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.24.29:236][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.24.29:237][535]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.24.29:237][535]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.24.29:239][535]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.24.29:239][535]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.24.29:376][535]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.24.29:376][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.24.29:376][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.24.29:376][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.24.29:377][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.24.29:377][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.24.29:377][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.24.29:379][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.24.29:379][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.24.29:379][535]LogInit: FAudioDevice initialized.
+[2022.02.08-16.24.29:380][535]LogAudio: Display: Audio Device (ID: 49) registered with world 'Level1'.
+[2022.02.08-16.24.29:394][535]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.24.29:396][535]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.24.29:396][535]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.24.29:396][535]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.24.29
+[2022.02.08-16.24.29:396][535]LogWorld: Bringing up level for play took: 0.001139
+[2022.02.08-16.24.29:397][535]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.02.08-16.24.29:402][535]PIE: Server logged in
+[2022.02.08-16.24.29:403][535]PIE: Play in editor total start time 0,201 seconds.
+[2022.02.08-16.24.29:404][535]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:418][536]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:434][537]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:493][538]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:534][539]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:577][540]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:618][541]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:634][542]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:651][543]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:668][544]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:685][545]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:701][546]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:721][547]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:735][548]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:751][549]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:768][550]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:809][551]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:827][552]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:843][553]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:860][554]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:877][555]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:893][556]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:910][557]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:927][558]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:943][559]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:960][560]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:977][561]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.29:993][562]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:011][563]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:028][564]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:043][565]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:061][566]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:077][567]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:094][568]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:111][569]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:128][570]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:145][571]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:160][572]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:177][573]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:193][574]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:210][575]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:228][576]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:244][577]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:261][578]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:277][579]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:296][580]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:311][581]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:328][582]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:345][583]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:361][584]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:377][585]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:394][586]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:410][587]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:427][588]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:444][589]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:461][590]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:478][591]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:495][592]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:512][593]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:528][594]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:544][595]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:561][596]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:577][597]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:595][598]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:612][599]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:629][600]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:645][601]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:661][602]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:678][603]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:695][604]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:712][605]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:729][606]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:745][607]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:761][608]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:778][609]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:796][610]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:811][611]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:828][612]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:845][613]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:861][614]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:878][615]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:895][616]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:911][617]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:928][618]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:944][619]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:961][620]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:977][621]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.30:994][622]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:011][623]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:028][624]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:045][625]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:061][626]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:078][627]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:095][628]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:111][629]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:127][630]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:144][631]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:161][632]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:178][633]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:195][634]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:211][635]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:228][636]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:246][637]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:262][638]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:279][639]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:296][640]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.31:346][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.24.31:346][640]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.24.31:346][640]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.24.31:347][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.24.31:362][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.24.31:366][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.24.31:391][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.24.31:392][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.24.31:393][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.24.31:418][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.24.31:421][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.08-16.24.31:446][641]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.02.08-16.24.34:027][783]Cmd: TRANSACTION UNDO
+[2022.02.08-16.24.34:027][783]LogEditorTransaction: Undo Change Collision Profile
+[2022.02.08-16.24.34:120][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-16.24.34:429][790]Cmd: TRANSACTION UNDO
+[2022.02.08-16.24.34:429][790]LogEditorTransaction: Undo Collision Channel Changes
+[2022.02.08-16.24.34:525][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-16.24.38:759][ 27]LogEditorTransaction: Undo Edit Collision Enabled
+[2022.02.08-16.24.38:854][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-16.24.40:790][124]LogEditorTransaction: Undo Edit Collision Profile Name
+[2022.02.08-16.24.40:881][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-16.24.49:426][619]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.24.49:494][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.08-16.24.50:856][693]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.24.50:862][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.24.50:862][693]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:24:50)
+[2022.02.08-16.24.50:884][693]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.24.50:887][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002591s)
+[2022.02.08-16.24.50:888][693]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.24.50:888][693]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2022.02.08-16.24.50:888][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.003834s)
+[2022.02.08-16.24.50:914][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.08-16.24.50:915][693]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.24.50:915][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.24.50:915][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.24.50:915][693]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.24.50:916][693]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.24.50:918][693]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.24.50:918][693]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.24.51:067][693]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.24.51:067][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.24.51:067][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.24.51:067][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.24.51:068][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.24.51:068][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.24.51:068][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.24.51:070][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.24.51:070][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.24.51:070][693]LogInit: FAudioDevice initialized.
+[2022.02.08-16.24.51:071][693]LogAudio: Display: Audio Device (ID: 50) registered with world 'Level1'.
+[2022.02.08-16.24.51:083][693]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.24.51:084][693]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.24.51:085][693]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.24.51:085][693]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.24.51:085][693]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.24.51:085][693]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.24.51
+[2022.02.08-16.24.51:085][693]LogWorld: Bringing up level for play took: 0.001502
+[2022.02.08-16.24.51:086][693]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.02.08-16.24.51:091][693]PIE: Server logged in
+[2022.02.08-16.24.51:092][693]PIE: Play in editor total start time 0,23 seconds.
+[2022.02.08-16.24.51:093][693]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:104][694]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:119][695]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:190][696]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:216][697]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:231][698]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:248][699]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:265][700]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:282][701]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:298][702]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:315][703]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:331][704]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:348][705]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:365][706]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:381][707]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:397][708]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:415][709]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:431][710]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:448][711]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:465][712]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:481][713]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:498][714]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:515][715]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:531][716]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:548][717]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:565][718]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:582][719]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:598][720]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:615][721]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:631][722]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:648][723]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:666][724]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:681][725]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:698][726]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:715][727]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:731][728]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:748][729]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:765][730]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:781][731]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:798][732]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:815][733]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:831][734]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:848][735]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:865][736]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:886][737]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:898][738]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:916][739]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:932][740]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:949][741]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:966][742]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.51:983][743]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:000][744]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:016][745]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:033][746]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:049][747]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:065][748]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:082][749]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:098][750]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:115][751]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:132][752]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:148][753]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:165][754]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:182][755]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:199][756]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:215][757]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:232][758]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:249][759]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:266][760]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:283][761]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:299][762]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:316][763]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:332][764]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:349][765]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:366][766]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:383][767]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:399][768]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:416][769]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:433][770]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:450][771]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:467][772]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:483][773]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:500][774]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:516][775]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:534][776]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:550][777]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:567][778]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:584][779]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:601][780]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:617][781]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:633][782]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:651][783]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:667][784]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:683][785]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:700][786]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:716][787]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:732][788]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:749][789]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:766][790]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:782][791]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:799][792]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:816][793]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:832][794]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:849][795]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:866][796]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:882][797]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:900][798]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:916][799]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:933][800]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:949][801]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:966][802]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:983][803]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.52:999][804]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:016][805]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:033][806]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:050][807]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:066][808]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:082][809]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:099][810]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:115][811]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:132][812]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:149][813]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:166][814]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:182][815]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:199][816]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:216][817]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:232][818]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:249][819]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:266][820]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:283][821]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:299][822]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:316][823]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:333][824]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:349][825]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:366][826]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:383][827]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:400][828]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:416][829]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:433][830]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:449][831]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:466][832]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:483][833]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:499][834]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:516][835]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:532][836]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:549][837]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:566][838]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:583][839]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:599][840]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:616][841]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:633][842]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:649][843]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:666][844]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:682][845]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:699][846]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:716][847]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:733][848]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:750][849]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:766][850]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:783][851]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:800][852]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:816][853]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:832][854]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:850][855]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:866][856]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:882][857]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:899][858]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:916][859]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:933][860]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:950][861]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:966][862]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.53:982][863]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:000][864]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:016][865]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:033][866]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:049][867]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:066][868]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:083][869]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:100][870]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:116][871]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:133][872]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:150][873]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:168][874]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.24.54:206][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.24.54:207][874]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.24.54:207][874]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.24.54:207][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.24.54:220][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.24.54:223][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.24.54:248][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.24.54:248][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.24.54:249][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.24.54:272][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.24.54:275][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.08-16.24.54:319][875]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.02.08-16.25.13:500][994]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.25.13:548][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.08-16.25.18:567][281]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.25.18:616][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.08-16.25.19:779][348]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.25.19:786][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.25.19:786][348]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:25:19)
+[2022.02.08-16.25.19:834][348]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.25.19:837][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002611s)
+[2022.02.08-16.25.19:838][348]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.25.19:838][348]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.02.08-16.25.19:838][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.003898s)
+[2022.02.08-16.25.19:865][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.02.08-16.25.19:866][348]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.25.19:866][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.25.19:866][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.25.19:867][348]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.25.19:867][348]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.25.19:869][348]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.25.19:869][348]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.25.20:013][348]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.25.20:013][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.25.20:014][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.25.20:014][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.25.20:014][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.25.20:014][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.25.20:014][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.25.20:017][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.25.20:017][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.25.20:017][348]LogInit: FAudioDevice initialized.
+[2022.02.08-16.25.20:017][348]LogAudio: Display: Audio Device (ID: 51) registered with world 'Level1'.
+[2022.02.08-16.25.20:028][348]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.25.20:029][348]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.25.20:029][348]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.25.20:029][348]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.25.20:030][348]PIE: Warning: Invalid Simulate Options: Body (Sword_3.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2022.02.08-16.25.20:030][348]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.25.20
+[2022.02.08-16.25.20:030][348]LogWorld: Bringing up level for play took: 0.001094
+[2022.02.08-16.25.20:030][348]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2022.02.08-16.25.20:035][348]PIE: Server logged in
+[2022.02.08-16.25.20:036][348]PIE: Play in editor total start time 0,252 seconds.
+[2022.02.08-16.25.20:037][348]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:049][349]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:065][350]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:137][351]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:163][352]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:180][353]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:197][354]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:213][355]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:230][356]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:247][357]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:263][358]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:279][359]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:296][360]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:316][361]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:329][362]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:346][363]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:362][364]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:379][365]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:396][366]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:413][367]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:430][368]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:447][369]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:463][370]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:480][371]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:497][372]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:513][373]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:530][374]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:547][375]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:564][376]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:580][377]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:597][378]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:614][379]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:630][380]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:647][381]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:664][382]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:680][383]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:696][384]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:713][385]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:730][386]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:746][387]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:763][388]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:779][389]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:796][390]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:813][391]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:830][392]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:846][393]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:863][394]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:880][395]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:897][396]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:914][397]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:930][398]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:947][399]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:965][400]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:982][401]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.20:997][402]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:014][403]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:031][404]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:047][405]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:063][406]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:079][407]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:096][408]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:113][409]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:129][410]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:146][411]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:163][412]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:179][413]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:196][414]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:213][415]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:230][416]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:247][417]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:263][418]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:280][419]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:297][420]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:314][421]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:330][422]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:347][423]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:365][424]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:381][425]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:397][426]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:414][427]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:429][428]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:446][429]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:463][430]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:480][431]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:496][432]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:513][433]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:530][434]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:546][435]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:563][436]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:580][437]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:597][438]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:613][439]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:630][440]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:646][441]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:663][442]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:679][443]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:696][444]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:713][445]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:729][446]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:746][447]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:763][448]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:780][449]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:796][450]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:813][451]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:830][452]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:846][453]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:863][454]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:879][455]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:896][456]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:913][457]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:930][458]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:946][459]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:963][460]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:979][461]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.21:996][462]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:013][463]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:029][464]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:047][465]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:063][466]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:080][467]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:096][468]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:112][469]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:129][470]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:147][471]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:163][472]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:180][473]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:197][474]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:213][475]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:230][476]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:246][477]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:263][478]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:280][479]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:296][480]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:313][481]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:330][482]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:347][483]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:363][484]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:380][485]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:397][486]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:413][487]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:430][488]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:447][489]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:464][490]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:480][491]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:497][492]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:513][493]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:530][494]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:547][495]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:564][496]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:580][497]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:597][498]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:614][499]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:630][500]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:647][501]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:663][502]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:680][503]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:696][504]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:714][505]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:730][506]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:746][507]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:764][508]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:780][509]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:797][510]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:813][511]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:830][512]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:847][513]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:863][514]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:881][515]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:896][516]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:914][517]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:931][518]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:947][519]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:964][520]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:980][521]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.22:997][522]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:014][523]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:030][524]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:047][525]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:063][526]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:080][527]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:097][528]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:113][529]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:130][530]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:147][531]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:164][532]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:180][533]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:197][534]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:214][535]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:230][536]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:247][537]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:264][538]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:280][539]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:297][540]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:314][541]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:331][542]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:347][543]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:363][544]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:380][545]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:397][546]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:414][547]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:430][548]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:447][549]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:464][550]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:481][551]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:497][552]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:514][553]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:530][554]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:547][555]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:564][556]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:581][557]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:596][558]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:613][559]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:630][560]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:647][561]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:663][562]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:680][563]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:697][564]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:714][565]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:730][566]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:747][567]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:764][568]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:781][569]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:797][570]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:814][571]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:830][572]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:848][573]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:865][574]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:881][575]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:898][576]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:915][577]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:930][578]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:946][579]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:963][580]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:980][581]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.23:997][582]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:014][583]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:030][584]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:047][585]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:064][586]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:081][587]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:097][588]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:115][589]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:131][590]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:147][591]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:164][592]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:181][593]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:197][594]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:215][595]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:231][596]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:248][597]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:265][598]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:281][599]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:297][600]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:314][601]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:330][602]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:347][603]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:363][604]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:380][605]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:397][606]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:414][607]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:430][608]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:447][609]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:464][610]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:481][611]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:497][612]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:514][613]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:531][614]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:547][615]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:564][616]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:580][617]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:597][618]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:614][619]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:631][620]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:648][621]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.24:696][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.25.24:696][621]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.25.24:697][621]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.25.24:697][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.25.24:712][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.25.24:716][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.25.24:740][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.25.24:740][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.25.24:741][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.25.24:763][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.25.24:766][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.08-16.25.24:792][622]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.02.08-16.25.31:396][  1]BlueprintLog: New page: Compile Sword
+[2022.02.08-16.25.31:443][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.08-16.25.32:859][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.25.32:866][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.25.32:867][ 75]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:25:32)
+[2022.02.08-16.25.32:867][ 75]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.25.32:870][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2022.02.08-16.25.32:871][ 75]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.25.32:872][ 75]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2022.02.08-16.25.32:872][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.005032s)
+[2022.02.08-16.25.32:899][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.02.08-16.25.32:900][ 75]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.25.32:900][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.25.32:900][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.25.32:901][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.25.32:901][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.25.32:903][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.25.32:903][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.25.33:047][ 75]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.25.33:048][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.25.33:051][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.25.33:051][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.25.33:051][ 75]LogInit: FAudioDevice initialized.
+[2022.02.08-16.25.33:051][ 75]LogAudio: Display: Audio Device (ID: 52) registered with world 'Level1'.
+[2022.02.08-16.25.33:061][ 75]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.25.33:062][ 75]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.25.33:062][ 75]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.25.33:063][ 75]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.25.33
+[2022.02.08-16.25.33:063][ 75]LogWorld: Bringing up level for play took: 0.000932
+[2022.02.08-16.25.33:063][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.02.08-16.25.33:068][ 75]PIE: Server logged in
+[2022.02.08-16.25.33:069][ 75]PIE: Play in editor total start time 0,203 seconds.
+[2022.02.08-16.25.33:070][ 75]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:084][ 76]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:100][ 77]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:159][ 78]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:199][ 79]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:228][ 80]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:245][ 81]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:261][ 82]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:278][ 83]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:295][ 84]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:312][ 85]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:328][ 86]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:344][ 87]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:361][ 88]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:378][ 89]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:395][ 90]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:411][ 91]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:428][ 92]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:445][ 93]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:462][ 94]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:478][ 95]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:495][ 96]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:512][ 97]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:531][ 98]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:545][ 99]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:562][100]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:579][101]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:596][102]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:612][103]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:629][104]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:646][105]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:662][106]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:679][107]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:696][108]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:712][109]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:728][110]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:745][111]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:762][112]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:778][113]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:795][114]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:811][115]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:828][116]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:845][117]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:861][118]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:878][119]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:895][120]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:912][121]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:929][122]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:946][123]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:962][124]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:979][125]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.33:996][126]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:012][127]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:029][128]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:046][129]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:063][130]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:079][131]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:095][132]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:112][133]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:128][134]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:145][135]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:162][136]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:179][137]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:195][138]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:212][139]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:229][140]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:246][141]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:262][142]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:279][143]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:295][144]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:312][145]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:329][146]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:346][147]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:362][148]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:378][149]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:395][150]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:412][151]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:429][152]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:446][153]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:462][154]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:479][155]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:496][156]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:513][157]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:529][158]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:546][159]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:562][160]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:579][161]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:596][162]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:613][163]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:630][164]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:646][165]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:663][166]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:680][167]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:696][168]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:713][169]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:729][170]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:745][171]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:762][172]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:779][173]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:796][174]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:812][175]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:829][176]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:846][177]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:862][178]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:879][179]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:896][180]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:912][181]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:929][182]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:946][183]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:962][184]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:979][185]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.34:996][186]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:012][187]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:029][188]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:046][189]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:063][190]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:080][191]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:096][192]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:112][193]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:128][194]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:146][195]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:163][196]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:179][197]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:196][198]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:212][199]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:229][200]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:246][201]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:263][202]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:280][203]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:297][204]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:313][205]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:330][206]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:347][207]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:364][208]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:380][209]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:397][210]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:413][211]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:430][212]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:447][213]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:464][214]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:481][215]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:497][216]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:513][217]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:530][218]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:547][219]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:563][220]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:580][221]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:597][222]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:613][223]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:630][224]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:646][225]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:664][226]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:680][227]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:697][228]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:714][229]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:731][230]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:747][231]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:764][232]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:782][233]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:798][234]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:814][235]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:831][236]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:848][237]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:865][238]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:881][239]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:897][240]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:914][241]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:931][242]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:949][243]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:964][244]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:981][245]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.35:998][246]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:013][247]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:029][248]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:046][249]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:063][250]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:079][251]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:096][252]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:113][253]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.25.36:146][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.25.36:146][253]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.25.36:146][253]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.25.36:147][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.25.36:160][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.25.36:163][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.25.36:187][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-16.25.36:187][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.25.36:188][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.25.36:211][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.25.36:214][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.08-16.25.36:233][254]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.02.08-16.25.45:656][808]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2022.02.08-16.26.01:250][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Arhitecture/MyPerson_Skeleton" FILE="D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset" SILENT=true
+[2022.02.08-16.26.01:254][724]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyPerson_Skeleton787932CA4A9A2BBC1F5AF086A97A1588.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset'
+[2022.02.08-16.26.01:265][724]AssetCheck: New page: Asset Save: MyPerson_Skeleton
+[2022.02.08-16.26.01:265][724]LogContentValidation: Display: Validating Skeleton /Game/MyContent/Arhitecture/MyPerson_Skeleton.MyPerson_Skeleton
+[2022.02.08-16.26.02:200][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Arhitecture/MyPerson_Skeleton" FILE="D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset" SILENT=true
+[2022.02.08-16.26.02:204][772]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyPerson_Skeleton3B42EEA24ED878F53733CDB0F2A04257.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset'
+[2022.02.08-16.26.02:213][772]AssetCheck: New page: Asset Save: MyPerson_Skeleton
+[2022.02.08-16.26.02:213][772]LogContentValidation: Display: Validating Skeleton /Game/MyContent/Arhitecture/MyPerson_Skeleton.MyPerson_Skeleton
+[2022.02.08-16.26.02:651][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Arhitecture/MyPerson_Skeleton" FILE="D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset" SILENT=true
+[2022.02.08-16.26.02:654][791]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyPerson_Skeleton1BB9029F403B287155347DBD4E9AEF0E.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset'
+[2022.02.08-16.26.02:664][791]AssetCheck: New page: Asset Save: MyPerson_Skeleton
+[2022.02.08-16.26.02:664][791]LogContentValidation: Display: Validating Skeleton /Game/MyContent/Arhitecture/MyPerson_Skeleton.MyPerson_Skeleton
+[2022.02.08-16.26.02:933][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Arhitecture/MyPerson_Skeleton" FILE="D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset" SILENT=true
+[2022.02.08-16.26.02:936][799]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyPerson_Skeleton49C5DEA7432DF09ECDFBB48CBD914BA9.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset'
+[2022.02.08-16.26.02:947][799]AssetCheck: New page: Asset Save: MyPerson_Skeleton
+[2022.02.08-16.26.02:947][799]LogContentValidation: Display: Validating Skeleton /Game/MyContent/Arhitecture/MyPerson_Skeleton.MyPerson_Skeleton
+[2022.02.08-16.26.03:218][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Arhitecture/MyPerson_Skeleton" FILE="D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset" SILENT=true
+[2022.02.08-16.26.03:222][807]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyPerson_Skeleton5A9411B045F007A7EA81CC9D1A3C4071.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Arhitecture/MyPerson_Skeleton.uasset'
+[2022.02.08-16.26.03:234][807]AssetCheck: New page: Asset Save: MyPerson_Skeleton
+[2022.02.08-16.26.03:234][807]LogContentValidation: Display: Validating Skeleton /Game/MyContent/Arhitecture/MyPerson_Skeleton.MyPerson_Skeleton
+[2022.02.08-16.26.04:452][878]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-16.26.04:459][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-16.26.04:459][878]PIE: New page: PIE session: Level1 (8 февр. 2022 г., 22:26:04)
+[2022.02.08-16.26.04:484][878]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.26.04:487][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002488s)
+[2022.02.08-16.26.04:488][878]LogAIModule: Creating AISystem for world Level1
+[2022.02.08-16.26.04:488][878]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2022.02.08-16.26.04:488][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.003779s)
+[2022.02.08-16.26.04:514][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.08-16.26.04:519][878]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-16.26.04:519][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-16.26.04:519][878]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.08-16.26.04:519][878]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-16.26.04:522][878]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-16.26.04:522][878]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-16.26.04:675][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-16.26.04:675][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-16.26.04:678][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-16.26.04:678][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-16.26.04:678][878]LogInit: FAudioDevice initialized.
+[2022.02.08-16.26.04:678][878]LogAudio: Display: Audio Device (ID: 53) registered with world 'Level1'.
+[2022.02.08-16.26.04:692][878]LogLoad: Game class is 'MyGM_C'
+[2022.02.08-16.26.04:693][878]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.26.04:693][878]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.HealZone_11.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.02.08-16.26.04:693][878]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.08-19.26.04
+[2022.02.08-16.26.04:694][878]LogWorld: Bringing up level for play took: 0.001130
+[2022.02.08-16.26.04:694][878]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2022.02.08-16.26.04:699][878]PIE: Server logged in
+[2022.02.08-16.26.04:700][878]PIE: Play in editor total start time 0,243 seconds.
+[2022.02.08-16.26.04:701][878]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:713][879]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:729][880]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:806][881]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:833][882]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:850][883]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:866][884]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:883][885]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:900][886]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:916][887]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:933][888]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:950][889]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:966][890]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.04:983][891]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:002][892]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:016][893]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:034][894]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:051][895]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:066][896]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:083][897]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:100][898]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:117][899]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:133][900]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:150][901]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:167][902]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:183][903]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:199][904]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:216][905]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:233][906]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:250][907]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:267][908]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:285][909]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:300][910]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:317][911]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:335][912]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:351][913]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:368][914]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:385][915]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:401][916]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:418][917]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:433][918]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:451][919]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:467][920]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:484][921]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:500][922]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:517][923]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:534][924]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:550][925]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:567][926]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:583][927]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:600][928]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:617][929]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:634][930]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:650][931]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:667][932]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:684][933]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:701][934]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:718][935]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:736][936]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:751][937]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:768][938]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:785][939]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:801][940]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:818][941]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:834][942]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:851][943]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:868][944]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:885][945]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:902][946]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:917][947]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:933][948]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:950][949]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:966][950]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.05:983][951]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:001][952]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:017][953]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:034][954]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:051][955]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:067][956]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:083][957]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:099][958]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:116][959]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:133][960]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:150][961]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:167][962]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:183][963]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:200][964]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:217][965]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:234][966]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:251][967]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:267][968]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:284][969]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:301][970]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:318][971]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:334][972]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:352][973]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:368][974]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:385][975]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:402][976]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:418][977]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:434][978]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:451][979]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:468][980]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:484][981]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:501][982]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:517][983]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:533][984]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:550][985]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:567][986]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:584][987]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:601][988]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:618][989]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:635][990]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:651][991]LogBlueprintUserMessages: [StatusAC] 100.0
+[2022.02.08-16.26.06:686][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.26.06:686][991]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.02.08-16.26.06:687][991]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-16.26.06:687][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.26.06:701][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-16.26.06:711][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-16.26.06:736][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-16.26.06:736][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.26.06:737][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-16.26.06:765][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.08-16.26.06:787][992]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.02.08-16.26.07:325][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.08-16.26.08:275][ 14]LogSlate: Window 'Save Content' being destroyed
+[2022.02.08-16.26.08:615][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Levels/Level1" FILE="D:/Erranelia/Erranelia/Content/MyContent/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.08-16.26.08:641][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.08-16.26.08:651][ 14]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Level125FCFBEC4A0FD983560A6E8665A67EFC.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Levels/Level1.umap'
+[2022.02.08-16.26.08:667][ 14]LogFileHelpers: Saving map 'Level1' took 0.052
+[2022.02.08-16.26.08:689][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyCharacter" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset" SILENT=true
+[2022.02.08-16.26.08:746][ 14]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyCharacter2269A87541B164CB70930789BD373EA6.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset'
+[2022.02.08-16.26.08:769][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Sword" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Sword.uasset" SILENT=true
+[2022.02.08-16.26.08:777][ 14]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Sword43BA252A42B02D491F77DA9C22C94B2D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Sword.uasset'
+[2022.02.08-16.26.08:790][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.08-16.26.08:790][ 14]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Object/Sword.Sword
+[2022.02.08-16.26.08:790][ 14]LogContentValidation: Display: Validating World /Game/MyContent/Levels/Level1.Level1
+[2022.02.08-16.26.08:790][ 14]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter
