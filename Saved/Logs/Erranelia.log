@@ -1664,3 +1664,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.31-18.56.51:164][594]AssetCheck: New page: Asset Save: Menu
 [2022.03.31-18.56.51:164][594]LogContentValidation: Display: Validating World /Game/MyContent/Levels/Menu.Menu
 [2022.03.31-18.56.51:888][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.31-18.58.04:600][198]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-18.58.04:668][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.03.31-18.58.05:301][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-18.58.05:414][221]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget28AD45CA49D64E8E0EFF0E90ECE4D169.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-18.58.05:431][221]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-18.58.05:432][221]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-18.59.23:057][798]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-18.59.23:153][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.03.31-18.59.23:990][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-18.59.24:105][833]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget813C788F41F22A1D6E1521BD3768822A.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-18.59.24:124][833]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-18.59.24:124][833]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-18.59.36:972][594]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-18.59.36:972][594]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-18.59.51:567][469]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-18.59.51:662][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.03.31-18.59.52:282][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-18.59.52:399][491]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget8D5159BF479BE82150766389D17A7759.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-18.59.52:416][491]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-18.59.52:416][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-18.59.55:851][636]LogTemp: Repeating last play command: Standalone Game
+[2022.03.31-18.59.55:900][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.03.31-19.00.31:169][ 59]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.02.54:806][619]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.02.54:806][619]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.03.37:334][111]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.03.37:334][111]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.03.57:417][308]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.04.46:832][916]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.04.46:832][916]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.05.24:710][674]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.05.24:710][674]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.05.28:631][909]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.05.28:631][909]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.05.37:097][408]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.06.41:861][ 31]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.06.41:861][ 31]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.07.09:669][692]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.08.26:297][161]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.08.26:297][161]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.09.10:809][735]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-19.09.10:897][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.03.31-19.09.11:459][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-19.09.11:590][752]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget47D22E48483598056C2AA9A27C42C4EC.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-19.09.11:607][752]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-19.09.11:607][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-19.09.18:123][135]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.09.50:175][872]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.09.50:175][872]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.10.27:654][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.03.31-19.10.27:655][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Menu' took 0.058
+[2022.03.31-19.10.27:656][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/UIX/Menu/SettingsWidget] ([1] browsable assets)...
+[2022.03.31-19.10.27:656][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/UIX/Menu/SettingsWidget]
+[2022.03.31-19.10.27:656][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/UIX/Menu/SettingsWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.03.31-19.10.27:849][506]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget_Auto22AEF2D8B4708C39B5561CCA255A402A6.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/UIX/Menu/SettingsWidget_Auto2.uasset'
+[2022.03.31-19.10.27:851][506]LogFileHelpers: Auto-saving content packages took 0.196
+[2022.03.31-19.11.18:603][546]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.11.18:603][546]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.11.39:551][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.11.39:551][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.12.01:200][994]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.12.36:663][734]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-19.12.36:742][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.03.31-19.12.37:574][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-19.12.37:706][791]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget72B01BFA4BB0849A7FA7719898F55924.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-19.12.37:721][791]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-19.12.37:721][791]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-19.12.55:813][ 11]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-19.12.55:910][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.03.31-19.12.56:499][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-19.12.56:630][ 43]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidgetC3BF688848F82E02557916AA4A3F41F3.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-19.12.56:646][ 43]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-19.12.56:646][ 43]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-19.13.29:454][  3]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.13.29:454][  3]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.13.30:328][ 96]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.13.30:328][ 96]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.13.33:284][428]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.13.33:284][428]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.14.02:833][326]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.14.02:833][326]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.14.32:788][546]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.14.32:788][546]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.14.51:013][828]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-19.15.54:661][498]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.15.54:661][498]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-19.17.52:065][889]LogTemp: Repeating last play command: Standalone Game
+[2022.03.31-19.17.52:119][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.03.31-19.17.57:518][889]LogSlate: Window 'Save Content' being destroyed
+[2022.03.31-19.17.57:707][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-19.17.57:848][889]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget03217286439BDD11D46EC0B222496A72.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-19.17.57:889][890]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-19.17.57:890][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-19.17.59:578][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.03.31-19.18.00:948][148]BlueprintLog: New page: Compile SettingsWidget
+[2022.03.31-19.18.01:033][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.03.31-19.18.01:766][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/UIX/Menu/SettingsWidget" FILE="D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset" SILENT=true
+[2022.03.31-19.18.01:910][173]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SettingsWidget30CEF6B74655906EF15607B420FE227A.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/UIX/Menu/SettingsWidget.uasset'
+[2022.03.31-19.18.01:929][173]AssetCheck: New page: Asset Save: SettingsWidget
+[2022.03.31-19.18.01:929][173]LogContentValidation: Display: Validating WidgetBlueprint /Game/MyContent/UIX/Menu/SettingsWidget.SettingsWidget
+[2022.03.31-19.19.42:791][ 39]LogTemp: Repeating last play command: Standalone Game
+[2022.03.31-19.19.42:839][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.31-19.26.56:057][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
