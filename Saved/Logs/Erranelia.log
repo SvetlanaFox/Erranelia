@@ -3946,3 +3946,1364 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.07-11.45.18:229][631]AssetCheck: New page: Asset Save: Tex_mushrooms_03
 [2022.04.07-11.45.18:229][631]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Object/Icons/Tex_mushrooms_03.Tex_mushrooms_03
 [2022.04.07-11.45.21:534][972]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MyContent/Object/Icons/Tex_mushrooms_03.Tex_mushrooms_03
+[2022.04.07-11.45.23:787][149]LogSlate: Window 'Tex_mushrooms_03' being destroyed
+[2022.04.07-11.48.37:281][600]LogContentBrowser: Attempting asset rename: Tex_mushrooms_03 -> ManaMushroomsIcon
+[2022.04.07-11.48.38:673][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Icons/ManaMushroomsIcon" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/ManaMushroomsIcon.uasset" SILENT=true
+[2022.04.07-11.48.38:679][600]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/ManaMushroomsIconEB8613654F8F8B456B4C5CAE03F2C9F9.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/ManaMushroomsIcon.uasset'
+[2022.04.07-11.48.39:389][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.07-11.48.39:409][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.07-11.48.39:416][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.04.07-11.48.39:454][600]AssetCheck: New page: Asset Save: ManaMushroomsIcon
+[2022.04.07-11.48.39:454][600]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Object/Icons/ManaMushroomsIcon.ManaMushroomsIcon
+[2022.04.07-11.49.04:358][970]LogTexture: Display: Building textures: ManaMushroomsIcon (AutoDXT, 256X256)
+[2022.04.07-11.49.09:188][400]LogTexture: Display: Building textures: ManaMushroomsIcon (BGRA8, 256X256)
+[2022.04.07-11.49.10:863][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Icons/ManaMushroomsIcon" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/ManaMushroomsIcon.uasset" SILENT=true
+[2022.04.07-11.49.10:870][534]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/ManaMushroomsIcon602E71A64B24B8F0F9A82E9902CC3D41.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/ManaMushroomsIcon.uasset'
+[2022.04.07-11.49.10:885][534]AssetCheck: New page: Asset Save: ManaMushroomsIcon
+[2022.04.07-11.49.10:885][534]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Object/Icons/ManaMushroomsIcon.ManaMushroomsIcon
+[2022.04.07-11.49.12:881][705]LogSlate: Window 'ManaMushroomsIcon - Property Editor' being destroyed
+[2022.04.07-11.50.59:324][569]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.07-11.50.59:351][569]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.07-11.51.06:332][385]LogContentBrowser: Attempting asset rename: NewFolder -> 3DMeshes
+[2022.04.07-11.51.06:332][385]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.07-11.51.13:059][767]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.07-11.51.13:080][767]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.07-11.51.16:677][196]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.04.07-11.51.16:677][196]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.07-11.51.43:058][769]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_tex.png)
+[2022.04.07-11.51.43:118][769]LogTexture: Display: Building textures: mushroom_lamella_tex (AutoDXT, 1024X1024)
+[2022.04.07-11.51.44:659][769]LogAssetTools: Warning: Failed to import 'D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_A.mtl'. Unknown extension 'mtl'.
+[2022.04.07-11.51.44:831][769]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_A.obj)
+[2022.04.07-11.51.45:241][769]LogFbx: Loading FBX Scene from D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_A.obj
+[2022.04.07-11.51.45:299][769]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.07-11.51.52:868][769]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.07-11.51.53:168][769]LogTexture: Display: Building textures: mushroom_lamella_tex (AutoDXT, 1024X1024)
+[2022.04.07-11.51.54:622][769]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.51.54:825][769]LogFbx: Display: Triangulating static mesh meshlamellaA
+[2022.04.07-11.51.54:887][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.04.07-11.51.54:887][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.04.07-11.51.54:887][769]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2022.04.07-11.51.54:974][769]LogStaticMesh: Building static mesh mushroom_lamella_A...
+[2022.04.07-11.51.55:211][769]LogStaticMesh: Built static mesh [0.21s] /Game/MyContent/Object/3DMeshes/mushroom_lamella_A.mushroom_lamella_A
+[2022.04.07-11.51.56:219][769]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.07-11.51.56:495][769]LogAssetTools: Warning: Failed to import 'D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_B.mtl'. Unknown extension 'mtl'.
+[2022.04.07-11.51.56:670][769]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_B.obj)
+[2022.04.07-11.51.56:805][769]LogFbx: Loading FBX Scene from D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_B.obj
+[2022.04.07-11.51.56:812][769]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.07-11.51.56:813][769]LogFbx: Display: Triangulating static mesh meshlamellaB
+[2022.04.07-11.51.56:826][769]LogStaticMesh: Building static mesh mushroom_lamella_B...
+[2022.04.07-11.51.56:833][769]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Object/3DMeshes/mushroom_lamella_B.mushroom_lamella_B
+[2022.04.07-11.51.56:852][769]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.07-11.51.57:120][769]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\загрузки\mesh_mushroom_lamella\mesh_mushroom_lamella\mushroom_lamella_NM.png)
+[2022.04.07-11.51.57:198][769]LogTexture: Display: Building textures: mushroom_lamella_NM (BC5, 1024X1024)
+[2022.04.07-11.51.57:699][769]LogSlate: Took 0.036305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.07-11.52.08:511][654]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MyContent/Object/3DMeshes/mushroom_lamella_A.mushroom_lamella_A
+[2022.04.07-11.52.10:838][654]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:1).
+[2022.04.07-11.52.10:838][654]LogSlate: Took 0.021074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.07-11.52.27:891][526]LogSlate: Window 'mushroom_lamella_A' being destroyed
+[2022.04.07-11.52.45:228][ 47]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.07-11.52.45:240][ 47]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.07-11.52.46:076][ 99]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1561)].
+[2022.04.07-11.52.46:076][ 99]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2022.04.07-11.52.46:456][ 99]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.07-11.52.46:497][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.07-11.52.46:510][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Menu' took 0.023
+[2022.04.07-11.52.46:523][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_tex] ([1] browsable assets)...
+[2022.04.07-11.52.46:529][ 99]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Object/3DMeshes/mushroom_lamella_tex.mushroom_lamella_tex]
+[2022.04.07-11.52.46:529][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_tex]
+[2022.04.07-11.52.46:554][ 99]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_tex_Auto11BF37DF1462F5A34C628BAA8CF0B441E.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Object/3DMeshes/mushroom_lamella_tex_Auto1.uasset'
+[2022.04.07-11.52.46:554][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_A] ([1] browsable assets)...
+[2022.04.07-11.52.46:566][ 99]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MyContent/Object/3DMeshes/mushroom_lamella_A.mushroom_lamella_A]
+[2022.04.07-11.52.46:566][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_A]
+[2022.04.07-11.52.46:609][ 99]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_A_Auto182DAFD194EA445C509DE3392CA0B5CD4.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Object/3DMeshes/mushroom_lamella_A_Auto1.uasset'
+[2022.04.07-11.52.46:610][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_B] ([1] browsable assets)...
+[2022.04.07-11.52.46:620][ 99]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MyContent/Object/3DMeshes/mushroom_lamella_B.mushroom_lamella_B]
+[2022.04.07-11.52.46:620][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_B]
+[2022.04.07-11.52.46:628][ 99]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_B_Auto1436788964E2FD89F43E73B9D5768E6C8.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Object/3DMeshes/mushroom_lamella_B_Auto1.uasset'
+[2022.04.07-11.52.46:629][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_NM] ([1] browsable assets)...
+[2022.04.07-11.52.46:636][ 99]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyContent/Object/3DMeshes/mushroom_lamella_NM.mushroom_lamella_NM]
+[2022.04.07-11.52.46:636][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Object/3DMeshes/mushroom_lamella_NM]
+[2022.04.07-11.52.46:644][ 99]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_NM_Auto186653AAB4489FD8C4A8BA38007501ADC.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Object/3DMeshes/mushroom_lamella_NM_Auto1.uasset'
+[2022.04.07-11.52.46:644][ 99]LogFileHelpers: Auto-saving content packages took 0.125
+[2022.04.07-11.53.06:679][896]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/Object/3DMeshes/NewMaterial.NewMaterial
+[2022.04.07-11.53.06:749][896]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.04.07-11.53.07:098][896]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.04.07-11.53.07:118][896]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.04.07-11.53.07:118][896]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.04.07-11.53.07:118][896]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.04.07-11.53.07:119][896]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.04.07-11.53.07:194][896]LogSlate: Took 0.012135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.07-11.53.11:103][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2022.04.07-11.53.12:541][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.04.07-11.53.13:876][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.04.07-11.53.19:290][387]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2022.04.07-11.53.24:938][907]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.04.07-11.53.26:076][  0]LogSlate: Window 'NewMaterial' being destroyed
+[2022.04.07-11.53.26:079][  0]LogSlate: Window 'NewMaterial' being destroyed
+[2022.04.07-11.53.26:098][  0]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-11.53.26:098][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-11.53.33:353][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.07-11.53.33:671][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2022.04.07-11.53.33:773][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.07-11.53.33:790][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.07-11.53.34:277][496]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.07-11.53.34:378][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.07-11.53.43:941][213]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.04.07-11.53.48:264][473]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MyContent/Object/3DMeshes/mushroom_lamella_tex.mushroom_lamella_tex
+[2022.04.07-11.53.54:242][104]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/Object/3DMeshes/matlamella.matlamella
+[2022.04.07-11.53.54:244][104]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.53.54:309][104]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.53.54:316][104]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.53.54:381][104]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.04.07-11.53.54:381][104]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.04.07-11.53.54:381][104]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.04.07-11.53.54:381][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.07-11.54.02:064][272]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2022.04.07-11.54.07:828][778]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.04.07-11.54.08:012][798]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.54.08:030][798]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.07-11.54.09:790][929]LogMaterialEditor: Saving and Compiling material matlamella
+[2022.04.07-11.54.11:090][929]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.54.11:201][929]LogMaterial: Display: Missing cached shader map for material matlamella, compiling. 
+[2022.04.07-11.54.11:259][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.07-11.54.11:308][929]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.07-11.54.11:888][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2022.04.07-11.54.15:188][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.04.07-11.54.15:743][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.04.07-11.54.16:841][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2022.04.07-11.54.20:134][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2022.04.07-11.54.20:134][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.04.07-11.54.20:688][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.04.07-11.54.21:799][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2022.04.07-11.54.21:799][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2022.04.07-11.54.21:799][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2022.04.07-11.54.22:911][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2022.04.07-11.54.23:467][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.04.07-11.54.24:579][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.04.07-11.54.25:685][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.04.07-11.54.25:685][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2022.04.07-11.54.25:685][929]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2022.04.07-11.54.26:241][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.04.07-11.54.26:693][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.04.07-11.54.26:699][929]TextureStreamingBuild: Display: Compiling optional shaders took 15.408 seconds.
+[2022.04.07-11.54.31:510][929]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.07-11.54.31:510][929]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.04.07-11.54.31:510][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.07-11.54.33:365][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/3DMeshes/matlamella" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/matlamella.uasset" SILENT=true
+[2022.04.07-11.54.33:374][929]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/matlamella6887DD674D23B7530AFD2FB9F87A83DA.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/matlamella.uasset'
+[2022.04.07-11.54.33:894][929]AssetCheck: New page: Asset Save: matlamella
+[2022.04.07-11.54.33:895][929]LogContentValidation: Display: Validating Material /Game/MyContent/Object/3DMeshes/matlamella.matlamella
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.07-11.54.33:951][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.07-11.54.55:101][723]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-11.54.55:101][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-11.54.55:926][785]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-11.54.55:926][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-11.55.27:045][373]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.07-11.55.27:051][373]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.07-11.55.27:063][373]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.07-11.55.33:892][ 79]LogContentBrowser: Attempting asset rename: NewBlueprint -> Mushroom
+[2022.04.07-11.55.34:192][ 79]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.07-11.55.40:357][683]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Object/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-11.55.41:966][683]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 126 classes and 0 folders.
+[2022.04.07-11.55.58:035][438]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.55.58:035][438]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMeshes: 'E:/UE_4.26/Engine/Content/EditorMeshes' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.55.58:035][438]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'E:/UE_4.26/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.55.58:035][438]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'E:/UE_4.26/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.33:514][711]BlueprintLog: New page: Compile Mushroom
+[2022.04.07-11.56.33:974][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2022.04.07-11.56.34:650][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/BP/WorldActors/Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset" SILENT=true
+[2022.04.07-11.56.34:660][731]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Mushroom2D8764764D606A4D1B5CDD81B73C59D6.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-11.56.35:003][731]AssetCheck: New page: Asset Save: Mushroom
+[2022.04.07-11.56.35:003][731]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Object/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-11.56.38:892][ 13]LogSlate: Window 'Mushroom' being destroyed
+[2022.04.07-11.56.44:582][330]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineDebugMaterials: 'E:/UE_4.26/Engine/Content/EngineDebugMaterials' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.44:582][330]SourceControl: fatal: E:/UE_4.26/Engine/Content/BufferVisualization: 'E:/UE_4.26/Engine/Content/BufferVisualization' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.44:582][330]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMaterials/MatineeCam_mat.uasset: 'E:/UE_4.26/Engine/Content/EditorMaterials/MatineeCam_mat.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.48:046][510]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMaterials/Matinee/MAT_EnableTrack_Mat.uasset: 'E:/UE_4.26/Engine/Content/EditorMaterials/Matinee/MAT_EnableTrack_Mat.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.48:046][510]SourceControl: fatal: E:/UE_4.26/Engine/Content/TemplateResources: 'E:/UE_4.26/Engine/Content/TemplateResources' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.48:046][510]SourceControl: fatal: E:/UE_4.26/Engine/Content/MaterialTemplates/PerfTricks/VertexColorBlend.uasset: 'E:/UE_4.26/Engine/Content/MaterialTemplates/PerfTricks/VertexColorBlend.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.48:046][510]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset: 'E:/UE_4.26/Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.54:766][978]SourceControl: fatal: E:/UE_4.26/Engine/Content/MaterialTemplates/PerfTricks: 'E:/UE_4.26/Engine/Content/MaterialTemplates/PerfTricks' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.54:766][978]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineDebugMaterials: 'E:/UE_4.26/Engine/Content/EngineDebugMaterials' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.55:761][ 34]SourceControl: fatal: E:/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset: 'E:/UE_4.26/Engine/Content/BufferVisualization/Velocity.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.56:417][ 71]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset: 'E:/UE_4.26/Engine/Content/EngineMaterials/UnlitText.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.56:479][ 76]SourceControl: fatal: E:/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset: 'E:/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.57:025][109]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset: 'E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.57:462][126]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset: 'E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.57:601][127]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset: 'E:/UE_4.26/Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.57:609][128]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset: 'E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.57:610][128]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset: 'E:/UE_4.26/Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.58:003][147]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMaterials/ThumbnailSolid.uasset: 'E:/UE_4.26/Engine/Content/EditorMaterials/ThumbnailSolid.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.58:138][151]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMaterials: 'E:/UE_4.26/Engine/Content/EditorMaterials' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.58:138][151]SourceControl: fatal: E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset: 'E:/UE_4.26/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.59:047][201]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorMaterials/ThumbnailBack.uasset: 'E:/UE_4.26/Engine/Content/EditorMaterials/ThumbnailBack.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.56.59:603][238]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineDebugMaterials/TexturePaint_2Tex_Color.uasset: 'E:/UE_4.26/Engine/Content/EngineDebugMaterials/TexturePaint_2Tex_Color.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.57.01:314][359]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset: 'E:/UE_4.26/Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.57.01:900][403]SourceControl: fatal: E:/UE_4.26/Engine/Content/TemplateResources: 'E:/UE_4.26/Engine/Content/TemplateResources' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-11.57.13:510][612]LogTexture: Display: Building textures: T_BlueSky_D (AutoDXT, 2048X2048)
+[2022.04.07-11.57.13:510][612]LogMaterial: Display: Missing cached shader map for material M_BlueSky, compiling. 
+[2022.04.07-11.57.13:515][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.07-11.57.13:515][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.07-11.57.19:235][  5]LogEditorTransaction: Undo Replace component used material
+[2022.04.07-11.57.19:723][ 15]LogEditorTransaction: Undo Replace component used material
+[2022.04.07-11.57.33:052][ 94]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/Object/3DMeshes/matlamella.matlamella
+[2022.04.07-11.57.33:053][ 94]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.57.33:061][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2022.04.07-11.57.33:061][ 94]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.04.07-11.57.33:061][ 94]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.04.07-11.57.33:119][ 94]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.57.33:126][ 94]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.57.33:138][ 94]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.07-11.57.38:882][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.04.07-11.57.40:044][798]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.57.40:094][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2022.04.07-11.57.42:276][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.04.07-11.57.44:292][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2022.04.07-11.57.49:045][713]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.04.07-11.57.50:220][851]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2022.04.07-11.57.54:054][279]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.04.07-11.57.59:673][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.04.07-11.58.00:467][919]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.04.07-11.58.00:473][919]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.58.00:490][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.07-11.58.05:138][397]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.04.07-11.58.10:698][943]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-11.58.10:701][943]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.58.10:721][943]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.04.07-11.58.10:736][943]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.07-11.58.13:560][151]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2022.04.07-11.58.14:378][151]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2022.04.07-11.58.14:825][151]LogSlate: Window 'Message' being destroyed
+[2022.04.07-11.58.14:833][151]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MyContent/Object/3DMeshes/matlamella.matlamella
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.07-11.58.14:874][151]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-11.58.14:875][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-11.58.22:154][757]BlueprintLog: New page: Compile Mushroom
+[2022.04.07-11.58.22:220][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.04.07-11.58.22:924][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/BP/WorldActors/Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset" SILENT=true
+[2022.04.07-11.58.22:934][793]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Mushroom35FA63BC437E8489A9C41E997A87F3A1.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-11.58.22:950][793]AssetCheck: New page: Asset Save: Mushroom
+[2022.04.07-11.58.22:950][793]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Object/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-11.58.23:300][810]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.04.07-11.58.25:880][ 80]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2022.04.07-11.58.27:290][190]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.04.07-11.58.30:822][479]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-11.58.30:823][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-11.58.39:741][660]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.04.07-11.58.45:610][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.04.07-11.58.45:742][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.04.07-11.58.47:541][722]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.07-12.08.13:141][513]LogHttp: Warning: 000001FA43E1E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47EDEA66-4CF0-D699-9E5A-8A8FCB4B4D7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8cd6c2da4b82dc0bdc91a18447fc021c%7Ce06581761d744ebca1061ceb17d7847d%7Ce5ba6442-4584-4893-a575-033a42f41bb3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f9f7323eb0 [can pipeline])
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.44.229) port 443 (#1))
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.04.07-12.08.13:142][513]LogHttp: Warning: 000001FA43E1E400: libcurl info message cache 7 (Closing connection 1)
+[2022.04.07-12.08.13:452][514]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47EDEA66-4CF0-D699-9E5A-8A8FCB4B4D7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8cd6c2da4b82dc0bdc91a18447fc021c%7Ce06581761d744ebca1061ceb17d7847d%7Ce5ba6442-4584-4893-a575-033a42f41bb3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.07-12.09.02:248][660]LogHttp: Warning: 000001FA43DCB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47EDEA66-4CF0-D699-9E5A-8A8FCB4B4D7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8cd6c2da4b82dc0bdc91a18447fc021c%7Ce06581761d744ebca1061ceb17d7847d%7Ce5ba6442-4584-4893-a575-033a42f41bb3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.07-12.09.02:248][660]LogHttp: Warning: 000001FA43DCB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.07-12.09.02:248][660]LogHttp: Warning: 000001FA43DCB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.07-12.09.02:248][660]LogHttp: Warning: 000001FA43DCB200: libcurl info message cache 1 (Closing connection 2)
+[2022.04.07-12.09.02:248][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47EDEA66-4CF0-D699-9E5A-8A8FCB4B4D7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=8cd6c2da4b82dc0bdc91a18447fc021c%7Ce06581761d744ebca1061ceb17d7847d%7Ce5ba6442-4584-4893-a575-033a42f41bb3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.07-12.09.30:109][742]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.07-12.32.01:940][984]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.07-12.32.01:972][984]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.07-12.32.05:611][203]LogContentBrowser: Attempting asset rename: NewFolder -> Enum
+[2022.04.07-12.32.05:612][203]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.07-12.32.11:475][543]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.04.07-12.32.11:488][543]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.04.07-12.32.18:530][966]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EItemType
+[2022.04.07-12.32.18:700][966]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.04.07-12.32.19:367][  5]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/MyContent/Object/Enum/EItemType.EItemType
+[2022.04.07-12.32.26:684][313]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.32.26:684][313]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.32.59:767][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Enum/EItemType" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Enum/EItemType.uasset" SILENT=true
+[2022.04.07-12.32.59:768][275]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/EItemType541730124F6BAA8F352BC48F80759AE4.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Enum/EItemType.uasset'
+[2022.04.07-12.33.00:255][275]AssetCheck: New page: Asset Save: EItemType
+[2022.04.07-12.33.00:255][275]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Object/Enum/EItemType.EItemType
+[2022.04.07-12.33.01:768][362]LogSlate: Window 'EItemType' being destroyed
+[2022.04.07-12.33.07:522][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.04.07-12.33.08:804][696]LogSlate: Window 'Save Content' being destroyed
+[2022.04.07-12.33.08:980][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/3DMeshes/mushroom_lamella_A" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_A.uasset" SILENT=true
+[2022.04.07-12.33.08:984][696]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_A1C7CFED54D16C4B6D3B56084CC103E79.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_A.uasset'
+[2022.04.07-12.33.09:315][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/3DMeshes/mushroom_lamella_B" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_B.uasset" SILENT=true
+[2022.04.07-12.33.09:318][696]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_BD81EE3BA43872FDD5A1B7C90DC8B6A9C.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_B.uasset'
+[2022.04.07-12.33.09:633][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/3DMeshes/mushroom_lamella_NM" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_NM.uasset" SILENT=true
+[2022.04.07-12.33.09:757][696]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_NM191A71AB48E29C81882E1798BFF5A959.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_NM.uasset'
+[2022.04.07-12.33.10:176][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/3DMeshes/mushroom_lamella_tex" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_tex.uasset" SILENT=true
+[2022.04.07-12.33.10:302][696]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_texF484FB2542B944D82E832D9FB3560D7F.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/3DMeshes/mushroom_lamella_tex.uasset'
+[2022.04.07-12.33.10:761][696]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.33.10:761][696]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Object/3DMeshes/mushroom_lamella_NM.mushroom_lamella_NM
+[2022.04.07-12.33.10:761][696]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Object/3DMeshes/mushroom_lamella_B.mushroom_lamella_B
+[2022.04.07-12.33.10:761][696]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Object/3DMeshes/mushroom_lamella_A.mushroom_lamella_A
+[2022.04.07-12.33.10:761][696]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Object/3DMeshes/mushroom_lamella_tex.mushroom_lamella_tex
+[2022.04.07-12.33.17:531][947]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.07-12.33.17:561][947]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.07-12.33.24:755][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.33.24:755][379]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.33.29:072][638]LogContentBrowser: Attempting asset rename: NewFolder -> Structure
+[2022.04.07-12.33.29:073][638]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.07-12.33.35:596][ 15]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.04.07-12.33.35:609][ 15]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.04.07-12.33.52:550][802]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_ItemSignature
+[2022.04.07-12.33.52:740][802]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.04.07-12.34.19:363][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Tex_mushrooms_03" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Tex_mushrooms_03.uasset" SILENT=true
+[2022.04.07-12.34.19:369][149]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Tex_mushrooms_033973842B410519EDF58326A06279029B.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Tex_mushrooms_03.uasset'
+[2022.04.07-12.34.20:189][149]AssetCheck: New page: Asset Save: Tex_mushrooms_03
+[2022.04.07-12.34.20:189][149]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Tex_mushrooms_03.Tex_mushrooms_03
+[2022.04.07-12.34.24:237][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2022.04.07-12.34.25:642][378]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.07-12.34.25:910][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.04.07-12.34.25:939][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.07-12.34.25:959][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.07-12.34.26:216][378]SourceControl: rm 'Content/MyContent/Inventory/Tex_mushrooms_03.uasset'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'E:/UE_4.26/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineLightProfiles: 'E:/UE_4.26/Engine/Content/EngineLightProfiles' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/Texturing' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset: 'E:/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h: 'E:/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h: 'E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h: 'E:/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h: 'E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h: 'E:/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h: 'E:/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.34.30:934][611]SourceControl: fatal: E:/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'E:/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.35.09:081][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/mushroom_lamella_NM" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_NM.uasset" SILENT=true
+[2022.04.07-12.35.09:110][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_NM08E2DC234BF8D52F3CFC758E5ACD4B56.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_NM.uasset'
+[2022.04.07-12.35.09:647][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/mushroom_lamella_B" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_B.uasset" SILENT=true
+[2022.04.07-12.35.09:654][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_B19E598BF47BE0612DE172D89223E3EBE.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_B.uasset'
+[2022.04.07-12.35.10:035][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/matlamella" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/matlamella.uasset" SILENT=true
+[2022.04.07-12.35.10:042][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/matlamella01E27D6D4ACC676BEC6B85ABB62878AC.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/matlamella.uasset'
+[2022.04.07-12.35.10:363][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/mushroom_lamella_A" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_A.uasset" SILENT=true
+[2022.04.07-12.35.10:371][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_AE11FE2EF49E17C76E3F9CEA37FC78E19.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_A.uasset'
+[2022.04.07-12.35.10:714][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/mushroom_lamella_tex" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_tex.uasset" SILENT=true
+[2022.04.07-12.35.10:743][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/mushroom_lamella_tex228417024B5CD1DA40963393C5F55CDE.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/mushroom_lamella_tex.uasset'
+[2022.04.07-12.35.12:099][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.04.07-12.35.12:125][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.07-12.35.12:144][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.07-12.35.12:166][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.07-12.35.12:186][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.07-12.35.12:214][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.07-12.35.12:233][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.07-12.35.12:473][761]SourceControl: rm 'Content/MyContent/Object/3DMeshes/matlamella.uasset'
+[2022.04.07-12.35.12:473][761]SourceControl: rm 'Content/MyContent/Object/3DMeshes/mushroom_lamella_A.uasset'
+[2022.04.07-12.35.12:473][761]SourceControl: rm 'Content/MyContent/Object/3DMeshes/mushroom_lamella_B.uasset'
+[2022.04.07-12.35.12:473][761]SourceControl: rm 'Content/MyContent/Object/3DMeshes/mushroom_lamella_NM.uasset'
+[2022.04.07-12.35.12:473][761]SourceControl: rm 'Content/MyContent/Object/3DMeshes/mushroom_lamella_tex.uasset'
+[2022.04.07-12.35.12:702][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/BP/WorldActors/Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset" SILENT=true
+[2022.04.07-12.35.12:712][761]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MushroomF9B1B4D54CE603F76060F28ED844442D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-12.35.12:777][761]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/3DMeshes/mushroom_lamella_NM.mushroom_lamella_NM
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Inventory/3DMeshes/mushroom_lamella_B.mushroom_lamella_B
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating Material /Game/MyContent/Inventory/3DMeshes/matlamella.matlamella
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Inventory/3DMeshes/mushroom_lamella_A.mushroom_lamella_A
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/3DMeshes/mushroom_lamella_tex.mushroom_lamella_tex
+[2022.04.07-12.35.12:777][761]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Object/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-12.35.18:518][ 69]LogTexture: Display: Building textures: T_Stf_StaffofAncients_E (AutoDXT, 512X512)
+[2022.04.07-12.35.18:518][ 69]LogTexture: Display: Building textures: T_Stf_StaffofAncients_D (AutoDXT, 512X512)
+[2022.04.07-12.35.18:518][ 69]LogTexture: Display: Building textures: StaffofAncientsNormalsMap (BC5, 512X512)
+[2022.04.07-12.35.18:518][ 69]LogMaterial: Display: Missing cached shader map for material T_Stf_StaffofAncients_D_Mat, compiling. 
+[2022.04.07-12.35.18:540][ 69]LogMaterial: Warning: [AssetLog] D:\Erranelia\Erranelia\Content\MyContent\Object\Staff\Materials\T_Stf_StaffofAncients_D_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.07-12.35.18:540][ 69]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.07-12.35.18:564][ 69]LogStaticMesh: Building static mesh SM_Stf_StaffofAncients...
+[2022.04.07-12.35.18:656][ 69]LogStaticMesh: Built static mesh [0.09s] /Game/MyContent/Object/Staff/StaticMesh/SM_Stf_StaffofAncients.SM_Stf_StaffofAncients
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase_C' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.SKEL_BirdCase_C' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.SKEL_BirdCase_C:ReceiveBeginPlay' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.SKEL_BirdCase_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.SKEL_BirdCase_C:ReceiveTick' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.SKEL_BirdCase_C:UserConstructionScript' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:751][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/BirdCase.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.SKEL_Mushroom_C' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom_C' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.SKEL_Mushroom_C:UserConstructionScript' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.SKEL_Mushroom_C:ReceiveTick' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.SKEL_Mushroom_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:756][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/BP/WorldActors/Mushroom.SKEL_Mushroom_C:ReceiveBeginPlay' ref from Metadata '/Game/MyContent/Object/BP/WorldActors/Mushroom.PackageMetaData'
+[2022.04.07-12.35.19:818][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/WorldActors/BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/BirdCase.uasset" SILENT=true
+[2022.04.07-12.35.19:827][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BirdCase0332DA1F48F6A2BB29CF65BDF5497C16.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/BirdCase.uasset'
+[2022.04.07-12.35.20:117][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/BP/WorldActors/BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/BirdCase.uasset" SILENT=true
+[2022.04.07-12.35.20:118][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BirdCaseBD34699D4A0EC8F50CBF3F85E5BF450A.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/BP/WorldActors/BirdCase.uasset'
+[2022.04.07-12.35.20:151][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/WorldActors/Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/Mushroom.uasset" SILENT=true
+[2022.04.07-12.35.20:160][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Mushroom58C93F9E441013FCAC8235AAE5A49725.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-12.35.21:374][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.04.07-12.35.21:403][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.07-12.35.21:423][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.07-12.35.21:671][ 69]SourceControl: rm 'Content/MyContent/Object/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-12.35.22:699][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/Enum/EItemType.EItemType' ref from Metadata '/Game/MyContent/Object/Enum/EItemType.PackageMetaData'
+[2022.04.07-12.35.22:734][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/EItemType" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/EItemType.uasset" SILENT=true
+[2022.04.07-12.35.22:735][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/EItemTypeA77F0D7B48FF52EB0DC3E9A613AB51C8.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/EItemType.uasset'
+[2022.04.07-12.35.23:372][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.07-12.35.23:400][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.04.07-12.35.23:420][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.07-12.35.23:664][ 69]SourceControl: rm 'Content/MyContent/Object/Enum/EItemType.uasset'
+[2022.04.07-12.35.25:323][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/System/SlotRam" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/SlotRam.uasset" SILENT=true
+[2022.04.07-12.35.25:326][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SlotRam81CBBBC749279B8EE83014B90B5B889B.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/SlotRam.uasset'
+[2022.04.07-12.35.25:628][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Icons/System/SlotRam" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/SlotRam.uasset" SILENT=true
+[2022.04.07-12.35.25:629][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SlotRam0A720AC14AF33D23F86FF28D17E4BFC5.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/SlotRam.uasset'
+[2022.04.07-12.35.25:636][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/System/Corzina" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/Corzina.uasset" SILENT=true
+[2022.04.07-12.35.25:642][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Corzina73893CFE4ED1D2DE12CD8FA37F7EFCA9.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/Corzina.uasset'
+[2022.04.07-12.35.25:988][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Icons/System/Corzina" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/Corzina.uasset" SILENT=true
+[2022.04.07-12.35.25:989][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/CorzinaA33141F04053CE42A8C1E68575DE46A7.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/Corzina.uasset'
+[2022.04.07-12.35.25:997][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/System/ViborSlot" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/ViborSlot.uasset" SILENT=true
+[2022.04.07-12.35.25:999][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/ViborSlot6E422E6547A9173EE3CA39A8C656C249.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/System/ViborSlot.uasset'
+[2022.04.07-12.35.26:283][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Object/Icons/System/ViborSlot" FILE="D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/ViborSlot.uasset" SILENT=true
+[2022.04.07-12.35.26:284][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/ViborSlotEC77A3404C5BFE1114787F91A8F93845.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Icons/System/ViborSlot.uasset'
+[2022.04.07-12.35.26:296][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/ManaMushroomsIcon" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/ManaMushroomsIcon.uasset" SILENT=true
+[2022.04.07-12.35.26:302][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/ManaMushroomsIconD1A309124DA2D18DE294AFB575A8FFD8.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/ManaMushroomsIcon.uasset'
+[2022.04.07-12.35.28:418][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.04.07-12.35.28:449][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.07-12.35.28:469][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.07-12.35.28:767][ 69]SourceControl: rm 'Content/MyContent/Object/Icons/ManaMushroomsIcon.uasset'
+[2022.04.07-12.35.31:273][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_D_Mat2DBFED274F29AD56CBB591B6025DC0F4.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Staff/Materials/T_Stf_StaffofAncients_D_Mat.uasset'
+[2022.04.07-12.35.31:697][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_D_MatEC032D104A871DC88AE4F69736389399.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Staff/Materials/T_Stf_StaffofAncients_D_Mat.uasset'
+[2022.04.07-12.35.31:745][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SM_Stf_StaffofAncientsB8BDE59C4C935D2E9E53F680F1780A2F.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Staff/StaticMesh/SM_Stf_StaffofAncients.uasset'
+[2022.04.07-12.35.32:102][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/SM_Stf_StaffofAncientsCF47EB4047E6AF24E1B417BBDA60892E.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Staff/StaticMesh/SM_Stf_StaffofAncients.uasset'
+[2022.04.07-12.35.32:130][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/StaffofAncientsNormalsMapA409329546B9FA6AB4ED3CAF0803AD78.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Staff/Textures/StaffofAncientsNormalsMap.uasset'
+[2022.04.07-12.35.32:560][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/StaffofAncientsNormalsMapC92E5C2B4DC68767A5BC6486DEF555E6.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Staff/Textures/StaffofAncientsNormalsMap.uasset'
+[2022.04.07-12.35.32:582][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_D77DF842A48FFCF852B4313B6648E4D9D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Staff/Textures/T_Stf_StaffofAncients_D.uasset'
+[2022.04.07-12.35.32:930][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_DE98E384A49CEC05B2FB045B45CD6E282.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Staff/Textures/T_Stf_StaffofAncients_D.uasset'
+[2022.04.07-12.35.32:936][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_EFD4334134BADA49B376927BF5525E4B8.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Staff/Textures/T_Stf_StaffofAncients_E.uasset'
+[2022.04.07-12.35.33:297][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/T_Stf_StaffofAncients_EA5A2A8B841D729BF0F52D2AD558344DE.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Object/Staff/Textures/T_Stf_StaffofAncients_E.uasset'
+[2022.04.07-12.35.37:462][ 69]LogMetaData: Removing '/Game/MyContent/Inventory/Structure/S_ItemSignature.S_ItemSignature' ref from Metadata '/Game/MyContent/Object/Structure/S_ItemSignature.PackageMetaData'
+[2022.04.07-12.35.37:496][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S_ItemSignature" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset" SILENT=true
+[2022.04.07-12.35.37:497][ 69]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S_ItemSignature5ED8EC7240E18536C4749EB72627DCE6.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset'
+[2022.04.07-12.35.38:218][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.07-12.35.38:245][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.07-12.35.38:268][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.07-12.35.38:336][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Staff/Materials/T_Stf_StaffofAncients_D_Mat.T_Stf_StaffofAncients_D_Mat
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Staff/Textures/T_Stf_StaffofAncients_E.T_Stf_StaffofAncients_E
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/System/SlotRam.SlotRam
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Staff/Textures/T_Stf_StaffofAncients_D.T_Stf_StaffofAncients_D
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/System/Corzina.Corzina
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/System/ViborSlot.ViborSlot
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/ManaMushroomsIcon.ManaMushroomsIcon
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating Material /Game/MyContent/Inventory/Staff/Materials/T_Stf_StaffofAncients_D_Mat.T_Stf_StaffofAncients_D_Mat
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S_ItemSignature.S_ItemSignature
+[2022.04.07-12.35.38:336][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Staff/Textures/StaffofAncientsNormalsMap.StaffofAncientsNormalsMap
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/BP/WorldActors/BirdCase.BirdCase
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/BP/WorldActors/BirdCase.Default__BirdCase_C
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/BP/WorldActors/BirdCase.BirdCase_C
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Inventory/Staff/StaticMesh/SM_Stf_StaffofAncients.SM_Stf_StaffofAncients
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Staff/Textures/T_Stf_StaffofAncients_E.T_Stf_StaffofAncients_E
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Staff/Textures/T_Stf_StaffofAncients_D.T_Stf_StaffofAncients_D
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Staff/StaticMesh/SM_Stf_StaffofAncients.SM_Stf_StaffofAncients
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Staff/Textures/StaffofAncientsNormalsMap.StaffofAncientsNormalsMap
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Icons/System/ViborSlot.ViborSlot
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Icons/System/SlotRam.SlotRam
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/EItemType.EItemType
+[2022.04.07-12.35.38:337][ 69]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Object/Icons/System/Corzina.Corzina
+[2022.04.07-12.35.41:410][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.04.07-12.35.41:411][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Menu' took 0.025
+[2022.04.07-12.35.41:411][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Character/MyCharacter] ([1] browsable assets)...
+[2022.04.07-12.35.41:423][245]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter]
+[2022.04.07-12.35.41:423][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Character/MyCharacter]
+[2022.04.07-12.35.41:423][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyCharacter" FILE="D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Character/MyCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.04.07-12.35.41:535][245]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyCharacter_Auto20A8CA872411892A355AD858C57E367D0.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Character/MyCharacter_Auto2.uasset'
+[2022.04.07-12.35.41:590][245]LogFileHelpers: Auto-saving content packages took 0.180
+[2022.04.07-12.36.14:589][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.07-12.36.28:179][204]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.07-12.37.02:584][250]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MyContent/Inventory/Structure/S_ItemSignature.S_ItemSignature
+[2022.04.07-12.37.09:452][369]LogSlate: Window 'S_ItemSignature' being destroyed
+[2022.04.07-12.37.22:765][157]LogSlate: Took 0.030571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.07-12.41.08:967][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S_ItemSignature" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset" SILENT=true
+[2022.04.07-12.41.08:969][955]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S_ItemSignatureA8B4124F428E99AE0AB87A9A3D367581.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset'
+[2022.04.07-12.41.08:983][955]AssetCheck: New page: Asset Save: S_ItemSignature
+[2022.04.07-12.41.08:983][955]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S_ItemSignature.S_ItemSignature
+[2022.04.07-12.42.59:219][330]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.07-12.42.59:246][330]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.07-12.43.05:934][732]LogContentBrowser: Attempting asset rename: NewFolder -> ItemClasses
+[2022.04.07-12.43.05:935][732]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.07-12.43.12:839][955]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.04.07-12.43.16:799][955]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.07-12.43.16:806][955]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.07-12.43.16:817][955]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.07-12.43.39:850][ 67]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MasterItem
+[2022.04.07-12.43.39:985][ 67]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.07-12.43.40:738][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem.BP_MasterItem
+[2022.04.07-12.43.43:716][227]LogSlate: Window 'BP_MasterItem' being destroyed
+[2022.04.07-12.44.19:830][109]BlueprintLog: New page: Compile BP_MasterItem
+[2022.04.07-12.44.19:906][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.07-12.44.21:336][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/BP_MasterItem.uasset" SILENT=true
+[2022.04.07-12.44.21:341][181]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_MasterItem1939FF3D4A7B4B9FA59DAAAED0F43CC4.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/BP_MasterItem.uasset'
+[2022.04.07-12.44.21:657][181]AssetCheck: New page: Asset Save: BP_MasterItem
+[2022.04.07-12.44.21:657][181]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem.BP_MasterItem
+[2022.04.07-12.45.06:191][555]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-12.45.06:191][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-12.45.11:252][829]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2022.04.07-12.45.11:286][829]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2022.04.07-12.45.21:410][433]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> BP_MasterItem_Child
+[2022.04.07-12.45.21:559][433]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2022.04.07-12.45.23:985][562]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child1
+[2022.04.07-12.45.24:015][562]LogContentBrowser: Creating deferred item: BP_MasterItem_Child1
+[2022.04.07-12.45.24:502][592]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child1 -> BP_MasterItem_Child1
+[2022.04.07-12.45.24:647][592]LogContentBrowser: End creating deferred item BP_MasterItem_Child1
+[2022.04.07-12.45.53:806][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.BP_MasterItem_Child
+[2022.04.07-12.45.57:396][131]LogSlate: Window 'BP_MasterItem_Child' being destroyed
+[2022.04.07-12.46.23:068][110]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Mushroom
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.SKEL_Item_Mushroom_C:UserConstructionScript' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.SKEL_Item_Mushroom_C' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom_C' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:110][110]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2022.04.07-12.46.24:146][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset" SILENT=true
+[2022.04.07-12.46.24:152][110]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_Mushroom93442D784E9BBC2C79F3A4B1AF1DEE98.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset'
+[2022.04.07-12.46.24:740][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.04.07-12.46.24:782][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.07-12.46.24:809][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.07-12.46.24:858][110]AssetCheck: New page: Asset Save: Item_Mushroom
+[2022.04.07-12.46.24:858][110]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom
+[2022.04.07-12.46.36:137][383]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child1 -> Item_BirdCase
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.SKEL_Item_BirdCase_C:UserConstructionScript' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.SKEL_Item_BirdCase_C' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase_C' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:188][383]LogMetaData: Removing '/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/MyContent/Inventory/BP/ItemClasses/BP_MasterItem_Child1.PackageMetaData'
+[2022.04.07-12.46.37:223][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset" SILENT=true
+[2022.04.07-12.46.37:229][383]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_BirdCase174717884C47F2A899AACF9FEC89C774.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset'
+[2022.04.07-12.46.37:867][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.04.07-12.46.37:908][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.07-12.46.37:934][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.07-12.46.37:982][383]AssetCheck: New page: Asset Save: Item_BirdCase
+[2022.04.07-12.46.37:982][383]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase
+[2022.04.07-12.46.46:888][299]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/MyContent/Inventory/Enum/EItemType.EItemType
+[2022.04.07-12.47.32:982][708]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.47.32:982][708]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.48.24:022][679]LogContentBrowser: Attempting asset rename: ManaMushroomsIcon -> ManaMushroomsIcon
+[2022.04.07-12.48.42:930][117]LogContentBrowser: Attempting asset rename: Mushroom -> Mushroom
+[2022.04.07-12.48.52:627][931]BlueprintLog: New page: Compile Item_Mushroom
+[2022.04.07-12.48.52:707][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.04.07-12.48.53:561][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset" SILENT=true
+[2022.04.07-12.48.53:566][  0]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_MushroomD1C03CC249B9788EE77E51B9087129EE.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset'
+[2022.04.07-12.48.53:579][  0]AssetCheck: New page: Asset Save: Item_Mushroom
+[2022.04.07-12.48.53:579][  0]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom
+[2022.04.07-12.48.57:297][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.07-12.48.59:887][361]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.07-12.48.59:999][361]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyContent/Inventory/BP/WorldActors/Mushroom.Mushroom
+[2022.04.07-12.49.03:278][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.04.07-12.49.03:492][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.07-12.49.03:520][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.04.07-12.49.03:547][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.07-12.49.03:837][361]SourceControl: rm 'Content/MyContent/Inventory/BP/WorldActors/Mushroom.uasset'
+[2022.04.07-12.50.23:332][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/3DMeshes/Birdcage_a" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/Birdcage_a.uasset" SILENT=true
+[2022.04.07-12.50.23:378][417]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Birdcage_a487FAE524CA1458D839EBDA7D4F9AB13.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/3DMeshes/Birdcage_a.uasset'
+[2022.04.07-12.50.23:842][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Meshes/Birdcage_a" FILE="D:/Erranelia/Erranelia/Content/MyContent/Meshes/Birdcage_a.uasset" SILENT=true
+[2022.04.07-12.50.23:843][417]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Birdcage_a9C82F2B54E6251287391C68BC082A52C.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Meshes/Birdcage_a.uasset'
+[2022.04.07-12.50.24:558][417]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.50.24:558][417]LogContentValidation: Display: Validating StaticMesh /Game/MyContent/Inventory/3DMeshes/Birdcage_a.Birdcage_a
+[2022.04.07-12.50.24:558][417]LogContentValidation: Display: Validating ObjectRedirector /Game/MyContent/Meshes/Birdcage_a.Birdcage_a
+[2022.04.07-12.51.24:146][ 34]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CraftResourcesIcons/Textures/Tex_tools_08.Tex_tools_08
+[2022.04.07-12.51.55:973][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/Tex_tools_08" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/Tex_tools_08.uasset" SILENT=true
+[2022.04.07-12.51.55:982][877]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Tex_tools_08CC6DFD504233CF49682A6AB6E940491A.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/Tex_tools_08.uasset'
+[2022.04.07-12.51.56:286][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CraftResourcesIcons/Textures/Tex_tools_08" FILE="D:/Erranelia/Erranelia/Content/CraftResourcesIcons/Textures/Tex_tools_08.uasset" SILENT=true
+[2022.04.07-12.51.56:287][877]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Tex_tools_08042CFDE14F7A44E12785E09201B81B98.tmp' to 'D:/Erranelia/Erranelia/Content/CraftResourcesIcons/Textures/Tex_tools_08.uasset'
+[2022.04.07-12.51.56:791][877]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.51.56:791][877]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/Tex_tools_08.Tex_tools_08
+[2022.04.07-12.51.56:791][877]LogContentValidation: Display: Validating ObjectRedirector /Game/CraftResourcesIcons/Textures/Tex_tools_08.Tex_tools_08
+[2022.04.07-12.52.13:205][483]LogTexture: Display: Building textures: Tex_tools_08 (BGRA8, 256X256)
+[2022.04.07-12.52.15:179][707]LogTexture: Display: Building textures: Tex_tools_08 (BGRA8, 256X256)
+[2022.04.07-12.52.19:280][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Icons/Tex_tools_08" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/Tex_tools_08.uasset" SILENT=true
+[2022.04.07-12.52.19:288][177]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Tex_tools_0877B2AEDE4368813795C2E6B05CEFDD86.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Icons/Tex_tools_08.uasset'
+[2022.04.07-12.52.19:301][177]AssetCheck: New page: Asset Save: Tex_tools_08
+[2022.04.07-12.52.19:301][177]LogContentValidation: Display: Validating Texture2D /Game/MyContent/Inventory/Icons/Tex_tools_08.Tex_tools_08
+[2022.04.07-12.52.56:544][685]BlueprintLog: New page: Compile Item_Mushroom
+[2022.04.07-12.52.56:599][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.04.07-12.52.57:878][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset" SILENT=true
+[2022.04.07-12.52.57:884][780]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_MushroomFE57FDC84948F7F2CA241D967475F2ED.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset'
+[2022.04.07-12.52.57:899][780]AssetCheck: New page: Asset Save: Item_Mushroom
+[2022.04.07-12.52.57:899][780]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom
+[2022.04.07-12.53.07:423][ 73]BlueprintLog: New page: Compile Item_Mushroom
+[2022.04.07-12.53.07:473][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.04.07-12.53.08:326][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset" SILENT=true
+[2022.04.07-12.53.08:333][136]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_Mushroom1B1926D7460A9F63CF3150985B966626.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.uasset'
+[2022.04.07-12.53.08:351][136]AssetCheck: New page: Asset Save: Item_Mushroom
+[2022.04.07-12.53.08:351][136]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_Mushroom.Item_Mushroom
+[2022.04.07-12.53.34:371][174]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-12.53.34:371][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-12.53.44:096][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase
+[2022.04.07-12.54.19:078][578]SourceControl: fatal: E:/UE_4.26/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'E:/UE_4.26/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.54.19:078][578]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineLightProfiles: 'E:/UE_4.26/Engine/Content/EngineLightProfiles' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.54.19:078][578]SourceControl: fatal: E:/UE_4.26/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'E:/UE_4.26/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.54.19:078][578]SourceControl: fatal: E:/UE_4.26/Engine/Content/EngineResources: 'E:/UE_4.26/Engine/Content/EngineResources' is outside repository at 'D:/Erranelia/Erranelia'
+[2022.04.07-12.54.21:993][720]LogSlate: Window 'Item_BirdCase' being destroyed
+[2022.04.07-12.54.22:835][815]BlueprintLog: New page: Compile Item_BirdCase
+[2022.04.07-12.54.22:883][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.07-12.54.23:632][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset" SILENT=true
+[2022.04.07-12.54.23:639][876]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_BirdCase0DA9460A42FDCED14AA9E8A0052D7C69.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset'
+[2022.04.07-12.54.23:653][876]AssetCheck: New page: Asset Save: Item_BirdCase
+[2022.04.07-12.54.23:654][876]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase
+[2022.04.07-12.54.36:489][923]LogContentBrowser: Attempting asset rename: Tex_tools_08 -> Tex_tools_08
+[2022.04.07-12.54.52:773][401]LogContentBrowser: Attempting asset rename: Birdcage_a -> Birdcage_a
+[2022.04.07-12.55.04:858][167]BlueprintLog: New page: Compile Item_BirdCase
+[2022.04.07-12.55.04:973][167]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2022.04.07-12.55.06:159][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset" SILENT=true
+[2022.04.07-12.55.06:171][208]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Item_BirdCaseD72B6CA149946789A7A1FDBEB12F5F81.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.uasset'
+[2022.04.07-12.55.06:194][208]AssetCheck: New page: Asset Save: Item_BirdCase
+[2022.04.07-12.55.06:194][208]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/ItemClasses/Item_BirdCase.Item_BirdCase
+[2022.04.07-12.55.31:944][332]LogUObjectHash: Compacting FUObjectHashTables data took  12.70ms
+[2022.04.07-12.55.31:956][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Menu' took 0.115
+[2022.04.07-12.55.31:958][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Character/MyCharacter] ([1] browsable assets)...
+[2022.04.07-12.55.32:016][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter]
+[2022.04.07-12.55.32:022][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Character/MyCharacter]
+[2022.04.07-12.55.32:026][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyCharacter" FILE="D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Character/MyCharacter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.07-12.55.32:956][332]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyCharacter_Auto3DABE231C4224EDCBF27A11A00A7F950E.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Character/MyCharacter_Auto3.uasset'
+[2022.04.07-12.55.33:002][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/Inventory/BP/WorldActors/BirdCase] ([1] browsable assets)...
+[2022.04.07-12.55.33:042][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase]
+[2022.04.07-12.55.33:042][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Inventory/BP/WorldActors/BirdCase]
+[2022.04.07-12.55.33:161][332]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BirdCase_Auto37037E0774478F97F589AEB940C03FE05.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Inventory/BP/WorldActors/BirdCase_Auto3.uasset'
+[2022.04.07-12.55.33:165][332]LogFileHelpers: Auto-saving content packages took 1.209
+[2022.04.07-12.57.22:389][306]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.04.07-12.57.22:403][306]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.04.07-12.57.27:526][906]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.57.27:526][906]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-12.57.35:106][798]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_SlotSignature
+[2022.04.07-12.57.35:255][798]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.04.07-12.57.36:218][906]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MyContent/Inventory/Structure/S_SlotSignature.S_SlotSignature
+[2022.04.07-12.58.28:282][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S_SlotSignature" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_SlotSignature.uasset" SILENT=true
+[2022.04.07-12.58.28:284][631]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S_SlotSignatureF47E4CE44E07064A614254BE282C26FF.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_SlotSignature.uasset'
+[2022.04.07-12.58.28:551][631]AssetCheck: New page: Asset Save: S_SlotSignature
+[2022.04.07-12.58.28:551][631]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S_SlotSignature.S_SlotSignature
+[2022.04.07-12.58.56:472][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S_SlotSignature" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_SlotSignature.uasset" SILENT=true
+[2022.04.07-12.58.56:474][925]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S_SlotSignatureF0F952ED485EF7844806D79A92CEE697.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_SlotSignature.uasset'
+[2022.04.07-12.58.56:487][925]AssetCheck: New page: Asset Save: S_SlotSignature
+[2022.04.07-12.58.56:487][925]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S_SlotSignature.S_SlotSignature
+[2022.04.07-12.59.36:508][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.07-12.59.39:615][678]LogSlate: Window 'Save Content' being destroyed
+[2022.04.07-12.59.39:910][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/WorldActors/BirdCase" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/BirdCase.uasset" SILENT=true
+[2022.04.07-12.59.39:915][678]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BirdCase84F8CF1B4BC79132F6AE88A6A682517F.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/WorldActors/BirdCase.uasset'
+[2022.04.07-12.59.39:915][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyCharacter" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset" SILENT=true
+[2022.04.07-12.59.40:016][678]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyCharacterC00CF3EE4027670363B33EB604DF3B05.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset'
+[2022.04.07-12.59.40:031][678]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-12.59.40:031][678]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter
+[2022.04.07-12.59.40:031][678]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/WorldActors/BirdCase.BirdCase
+[2022.04.07-12.59.47:517][539]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-12.59.47:517][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-12.59.54:431][305]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.04.07-12.59.55:569][305]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.07-12.59.55:575][305]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.07-12.59.55:587][305]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.07-13.00.09:853][994]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Inventory
+[2022.04.07-13.00.10:014][994]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.07-13.00.11:198][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.00.14:652][334]LogSlate: Window 'BP_Inventory' being destroyed
+[2022.04.07-13.01.17:065][823]LogContentBrowser: Attempting asset rename: S_SlotSignature -> S_SlotSignature
+[2022.04.07-13.01.40:662][196]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.01.40:716][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.04.07-13.01.41:451][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.01.41:457][255]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_InventoryDCFFAD954A24E0F8B06A4292E130849E.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.01.41:856][255]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.01.41:856][255]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.03.36:344][728]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.03.36:389][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.04.07-13.03.37:250][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.03.37:256][804]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory4B3821FC41B7986316149DBDB1DDFD9A.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.03.37:271][804]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.03.37:272][804]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.03.57:875][ 95]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.03.57:924][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.07-13.03.58:755][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.03.58:760][169]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_InventoryCDA9B2F7435DAC9BC53C9F90BEC97E6F.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.03.58:779][169]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.03.58:779][169]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.04.39:704][149]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.04.39:748][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.04.07-13.04.40:439][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.04.40:444][206]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory29BB464D4446A76080CB65B904C531D5.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.04.40:456][206]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.04.40:456][206]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.05.43:644][783]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.04.07-13.05.43:657][783]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.04.07-13.06.13:434][306]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_InventoryStartMode
+[2022.04.07-13.06.13:584][306]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.04.07-13.06.19:006][910]LogContentBrowser: Attempting asset rename: EItemType -> E_ItemType
+[2022.04.07-13.06.20:238][910]LogMetaData: Removing '/Game/MyContent/Inventory/Enum/E_ItemType.E_ItemType' ref from Metadata '/Game/MyContent/Inventory/Enum/EItemType.PackageMetaData'
+[2022.04.07-13.06.20:274][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/E_ItemType" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_ItemType.uasset" SILENT=true
+[2022.04.07-13.06.20:276][910]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_ItemTypeC6F13BDC4F8F5A0E58B032B7FE81CCB7.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_ItemType.uasset'
+[2022.04.07-13.06.21:019][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.07-13.06.21:055][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.07-13.06.21:080][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.07-13.06.21:358][910]SourceControl: rm 'Content/MyContent/Inventory/Enum/EItemType.uasset'
+[2022.04.07-13.06.21:594][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S_ItemSignature" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset" SILENT=true
+[2022.04.07-13.06.21:596][910]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S_ItemSignatureA1ACEBB14410DDE921A056B96C3C542D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S_ItemSignature.uasset'
+[2022.04.07-13.06.21:651][910]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.07-13.06.21:651][910]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S_ItemSignature.S_ItemSignature
+[2022.04.07-13.06.21:651][910]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/E_ItemType.E_ItemType
+[2022.04.07-13.06.22:557][ 13]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStartMode.E_InventoryStartMode
+[2022.04.07-13.06.35:803][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/E_InventoryStartMode" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStartMode.uasset" SILENT=true
+[2022.04.07-13.06.35:804][555]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_InventoryStartMode2E5F7A0545F8D5696A96AEABAE06278D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStartMode.uasset'
+[2022.04.07-13.06.36:126][555]AssetCheck: New page: Asset Save: E_InventoryStartMode
+[2022.04.07-13.06.36:126][555]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStartMode.E_InventoryStartMode
+[2022.04.07-13.06.46:929][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.04.07-13.07.27:780][869]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.04.07-13.07.27:795][869]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.04.07-13.07.53:357][919]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_StatusInventory
+[2022.04.07-13.07.53:515][919]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.04.07-13.08.09:353][720]LogContentBrowser: Attempting asset rename: E_StatusInventory -> E_InventoryStatusatus
+[2022.04.07-13.08.10:551][720]LogMetaData: Removing '/Game/MyContent/Inventory/Enum/E_InventoryStatusatus.E_InventoryStatusatus' ref from Metadata '/Game/MyContent/Inventory/Enum/E_StatusInventory.PackageMetaData'
+[2022.04.07-13.08.10:570][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/E_InventoryStatusatus" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatusatus.uasset" SILENT=true
+[2022.04.07-13.08.10:571][720]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_InventoryStatusatus9EB49DBE4D52454370402E94944C3367.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatusatus.uasset'
+[2022.04.07-13.08.11:180][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.04.07-13.08.11:214][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.07-13.08.11:237][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.07-13.08.11:284][720]AssetCheck: New page: Asset Save: E_InventoryStatusatus
+[2022.04.07-13.08.11:284][720]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStatusatus.E_InventoryStatusatus
+[2022.04.07-13.08.12:452][851]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStatusatus.E_InventoryStatusatus
+[2022.04.07-13.08.20:446][635]LogContentBrowser: Attempting asset rename: E_InventoryStatusatus -> E_InventoryStatus
+[2022.04.07-13.08.21:481][635]LogMetaData: Removing '/Game/MyContent/Inventory/Enum/E_InventoryStatus.E_InventoryStatus' ref from Metadata '/Game/MyContent/Inventory/Enum/E_InventoryStatusatus.PackageMetaData'
+[2022.04.07-13.08.21:517][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/E_InventoryStatus" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatus.uasset" SILENT=true
+[2022.04.07-13.08.21:518][635]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_InventoryStatus4CB4B9374185CDF03CECA7BDB0ED3FDA.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatus.uasset'
+[2022.04.07-13.08.22:242][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.04.07-13.08.22:275][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.07-13.08.22:300][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.04.07-13.08.22:555][635]SourceControl: rm 'Content/MyContent/Inventory/Enum/E_InventoryStatusatus.uasset'
+[2022.04.07-13.08.22:603][635]AssetCheck: New page: Asset Save: E_InventoryStatus
+[2022.04.07-13.08.22:603][635]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStatus.E_InventoryStatus
+[2022.04.07-13.09.42:843][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.07-13.09.42:844][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Menu' took 0.031
+[2022.04.07-13.09.42:844][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Inventory/Enum/E_InventoryStatus] ([1] browsable assets)...
+[2022.04.07-13.09.42:844][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Inventory/Enum/E_InventoryStatus]
+[2022.04.07-13.09.42:845][779]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_InventoryStatus_Auto4D8D7EE844C7B2DD4A7D4CBBB66599693.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Inventory/Enum/E_InventoryStatus_Auto4.uasset'
+[2022.04.07-13.09.42:845][779]LogFileHelpers: Auto-saving content packages took 0.002
+[2022.04.07-13.10.08:128][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Enum/E_InventoryStatus" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatus.uasset" SILENT=true
+[2022.04.07-13.10.08:130][861]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/E_InventoryStatusE39D2F804D2AF4BB96AEA9A97B9D7E8C.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Enum/E_InventoryStatus.uasset'
+[2022.04.07-13.10.08:143][861]AssetCheck: New page: Asset Save: E_InventoryStatus
+[2022.04.07-13.10.08:143][861]LogContentValidation: Display: Validating UserDefinedEnum /Game/MyContent/Inventory/Enum/E_InventoryStatus.E_InventoryStatus
+[2022.04.07-13.10.28:174][588]LogContentBrowser: Attempting asset rename: E_InventoryStatus -> E_InventoryStatus
+[2022.04.07-13.10.33:468][179]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.10.33:513][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.07-13.10.34:339][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.10.34:344][246]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_InventoryF0A1BB7441DD10A7503DA9B6F12578B0.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.10.34:357][246]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.10.34:357][246]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.10.57:758][437]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.10.57:803][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.07-13.10.58:349][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.10.58:355][477]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory216C4D7F4A5A810EBA83C3B3F73BD364.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.10.58:370][477]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.10.58:370][477]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.11.18:452][797]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.11.18:499][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.07-13.11.19:140][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.11.19:146][849]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory16D0BA3C47A70DCBBB51FAA7C6811A10.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.11.19:160][849]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.11.19:160][849]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.12.23:731][929]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.12.23:779][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.04.07-13.12.24:467][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.12.24:472][984]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory50C19D5344ACBFA5F938328A7557A4A4.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.12.24:489][984]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.12.24:489][984]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.12.56:751][774]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.12.56:797][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.07-13.12.57:472][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.12.57:479][827]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_InventoryFDA31FEC480F56E609F7139FCEC91666.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.12.57:493][827]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.12.57:493][827]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.13.27:359][453]LogContentBrowser: Attempting asset rename: HUD_HP_Character -> HUD_HP_Character
+[2022.04.07-13.13.37:989][ 48]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.13.38:036][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.04.07-13.13.38:725][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.13.38:731][105]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory63C6483C43CE9CE9BDE2EABE8510B907.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.13.38:747][105]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.13.38:747][105]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.13.47:224][ 89]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.13.47:269][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.07-13.13.47:988][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.13.47:992][151]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory57E8FA1745AA0C82CB5CC8AC6051B970.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.13.48:009][151]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.13.48:009][151]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.14.29:009][675]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.14.29:071][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.04.07-13.14.29:691][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.14.29:699][719]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory159A07DD4883D25525427E99705B8EC7.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.14.29:713][719]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.14.29:713][719]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.14.30:706][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.04.07-13.14.31:512][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.07-13.15.09:058][395]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.15.09:103][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.04.07-13.15.09:794][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.15.09:802][445]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory0C5828564279D449F014DC8B5DBA9B03.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.15.09:815][445]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.15.09:815][445]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.17.20:990][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.04.07-13.17.23:381][908]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyContent/Levels/Level1.Level1
+[2022.04.07-13.17.23:381][908]Cmd: MAP LOAD FILE="D:/Erranelia/Erranelia/Content/MyContent/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.07-13.17.23:381][908]LightingResults: New page: Lighting Build
+[2022.04.07-13.17.23:382][908]LoadErrors: New page: Loading map: Level1.umap
+[2022.04.07-13.17.23:412][908]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.17.23:499][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.17.23:499][908]MapCheck: New page: Map Check
+[2022.04.07-13.17.23:499][908]LightingResults: New page: Lighting Build
+[2022.04.07-13.17.23:536][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.07-13.17.23:639][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.04.07-13.17.23:661][908]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.04.07-13.17.23:712][908]LogPhysics: Warning: Scale for /Game/MyContent/Levels/Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.17.23:799][908]LogPhysics: Warning: Scale for /Game/MyContent/Levels/Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.17.23:799][908]LogPhysics: Warning: Scale for /Game/MyContent/Levels/Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.17.23:799][908]LogPhysics: Warning: Scale for /Game/MyContent/Levels/Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.17.23:962][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.07-13.17.23:962][908]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.17.24:043][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.04.07-13.17.24:056][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.07-13.17.24:056][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2022.04.07-13.17.24:056][908]LogFileHelpers: Loading map 'Level1' took 0.676
+[2022.04.07-13.17.25:177][953]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.07-13.17.25:352][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.07-13.17.25:367][953]LogPlayLevel: [PlayLevel] Compiling MyCharacter before play...
+[2022.04.07-13.17.25:482][953]LogPlayLevel: [PlayLevel] Compiling BirdCase before play...
+[2022.04.07-13.17.25:527][953]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.04.07-13.17.25:592][953]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.04.07-13.17.25:610][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (3 blueprints)
+[2022.04.07-13.17.25:635][953]PIE: New page: PIE session: Level1 (7 апр. 2022 г., 19:17:25)
+[2022.04.07-13.17.25:766][953]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.07-13.17.25:768][953]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.07-13.17.25:789][953]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.17.25:821][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032039s)
+[2022.04.07-13.17.25:834][953]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.17.25:852][953]LogPlayLevel: PIE: World Init took: (0.030918s)
+[2022.04.07-13.17.25:852][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.063217s)
+[2022.04.07-13.17.25:891][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.07-13.17.25:907][953]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-13.17.25:908][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-13.17.25:908][953]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.07-13.17.25:908][953]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-13.17.25:930][953]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-13.17.25:930][953]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-13.17.26:127][953]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.04.07-13.17.26:127][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-13.17.26:127][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-13.17.26:127][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-13.17.26:128][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-13.17.26:128][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-13.17.26:128][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-13.17.26:149][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-13.17.26:149][953]LogInit: FAudioDevice initialized.
+[2022.04.07-13.17.26:149][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-13.17.26:149][953]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.04.07-13.17.26:215][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.17.26:241][953]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.17.26:366][953]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.17.26:375][953]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.04.07-16.17.26
+[2022.04.07-13.17.26:563][953]LogWorld: Bringing up level for play took: 0.197647
+[2022.04.07-13.17.26:598][953]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.04.07-13.17.26:896][953]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2022.04.07-13.17.27:087][953]PIE: Server logged in
+[2022.04.07-13.17.27:088][953]PIE: Play in editor total start time 1,883 seconds.
+[2022.04.07-13.17.33:508][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.17.33:508][449]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.17.33:508][449]LogSlate: Window 'Erranelia Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.07-13.17.33:512][449]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.17.33:525][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.17.33:560][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-13.17.33:565][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.17.33:677][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.17.33:685][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.17.33:877][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.04.07-13.17.33:904][450]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.04.07-13.17.48:691][745]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyContent/Character/MyAnym.MyAnym
+[2022.04.07-13.17.48:968][745]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.04.07-13.17.49:021][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.17.49:081][745]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.04.07-13.17.51:126][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.07-13.18.04:101][940]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/MyContent/Character/CrouchCharacter.CrouchCharacter
+[2022.04.07-13.18.04:184][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.18.05:096][940]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.07-13.19.17:893][169]BlueprintLog: New page: Compile MyAnym
+[2022.04.07-13.19.18:255][169]LogBlueprint: Warning: [AssetLog] D:\Erranelia\Erranelia\Content\MyContent\Character\MyAnym.uasset: [Compiler] Idle to Crouch_Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.04.07-13.19.18:255][169]LogBlueprint: Warning: [AssetLog] D:\Erranelia\Erranelia\Content\MyContent\Character\MyAnym.uasset: [Compiler] Crouch_Idle to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.04.07-13.19.18:255][169]LogBlueprint: Warning: [AssetLog] D:\Erranelia\Erranelia\Content\MyContent\Character\MyAnym.uasset: [Compiler] Crouch_Idle to CrouchCharacter  will never be taken, please connect something to  Can Enter Transition
+[2022.04.07-13.19.18:255][169]LogBlueprint: Warning: [AssetLog] D:\Erranelia\Erranelia\Content\MyContent\Character\MyAnym.uasset: [Compiler] CrouchCharacter to Crouch_Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.04.07-13.19.18:453][169]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2022.04.07-13.19.19:674][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyAnym" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset" SILENT=true
+[2022.04.07-13.19.19:760][241]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyAnym39C2385144B946D8925AB4AFECA3CF6D.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset'
+[2022.04.07-13.19.19:797][241]AssetCheck: New page: Asset Save: MyAnym
+[2022.04.07-13.19.19:797][241]LogContentValidation: Display: Validating AnimBlueprint /Game/MyContent/Character/MyAnym.MyAnym
+[2022.04.07-13.20.58:548][687]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.20.58:548][687]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.02:156][ 11]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.02:156][ 11]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.08:736][634]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.08:736][634]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.09:266][685]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.09:266][685]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.07-13.21.29:522][407]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.21.29:721][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.29:787][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.30:060][408]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.30:262][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.30:264][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.30:267][408]LogEditorTransaction: Undo Move Node
+[2022.04.07-13.21.30:501][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.30:503][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.31:680][486]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.31:872][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.31:874][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.32:232][497]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.32:432][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.32:433][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.35:847][812]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.21.36:042][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.36:043][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.36:410][822]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.36:601][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.36:603][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.36:911][824]LogEditorTransaction: Undo Rename Variable
+[2022.04.07-13.21.37:113][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.37:115][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.37:443][826]LogEditorTransaction: Undo Add Variable
+[2022.04.07-13.21.37:645][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.37:647][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.37:947][828]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.38:152][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.38:154][828]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.38:423][830]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.38:625][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.38:626][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.38:702][831]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.39:069][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.39:071][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.39:073][831]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.39:295][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.39:297][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.40:162][879]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.40:424][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.40:426][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.40:630][881]LogEditorTransaction: Undo Move Node
+[2022.04.07-13.21.40:829][881]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.40:830][881]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.40:900][882]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.41:247][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.41:248][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.41:457][884]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.41:646][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.41:648][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.41:934][886]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.42:124][886]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.42:125][886]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.42:437][888]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.21.42:635][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.42:636][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.42:972][890]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.21.43:170][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.43:171][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.43:238][891]LogEditorTransaction: Undo Create Pin Link
+[2022.04.07-13.21.43:629][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.43:631][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.43:934][906]LogEditorTransaction: Undo Move Node
+[2022.04.07-13.21.44:138][906]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.44:140][906]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.44:675][932]LogEditorTransaction: Undo Move Node
+[2022.04.07-13.21.44:876][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.44:877][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.45:983][ 30]LogEditorTransaction: Undo Move Node
+[2022.04.07-13.21.46:180][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.46:182][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.46:986][ 74]LogEditorTransaction: Undo Rename Node
+[2022.04.07-13.21.47:187][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.47:189][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.47:933][125]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.48:141][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.48:142][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.48:806][178]LogEditorTransaction: Undo Add Node
+[2022.04.07-13.21.49:017][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.49:019][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.07-13.21.50:962][345]BlueprintLog: New page: Compile MyAnym
+[2022.04.07-13.21.51:099][345]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2022.04.07-13.21.52:373][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyAnym" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset" SILENT=true
+[2022.04.07-13.21.52:437][437]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyAnym363317414E2950CA55E05095943A38C1.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset'
+[2022.04.07-13.21.52:453][437]AssetCheck: New page: Asset Save: MyAnym
+[2022.04.07-13.21.52:453][437]LogContentValidation: Display: Validating AnimBlueprint /Game/MyContent/Character/MyAnym.MyAnym
+[2022.04.07-13.22.10:143][325]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.07-13.22.10:152][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.07-13.22.10:152][325]PIE: New page: PIE session: Level1 (7 апр. 2022 г., 19:22:10)
+[2022.04.07-13.22.10:152][325]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.22.10:157][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2022.04.07-13.22.10:158][325]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.22.10:158][325]LogPlayLevel: PIE: World Init took: (0.001773s)
+[2022.04.07-13.22.10:159][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.006353s)
+[2022.04.07-13.22.10:208][325]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.04.07-13.22.10:212][325]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-13.22.10:212][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-13.22.10:212][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-13.22.10:213][325]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.07-13.22.10:213][325]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-13.22.10:216][325]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-13.22.10:216][325]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-13.22.10:311][325]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.04.07-13.22.10:311][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-13.22.10:311][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-13.22.10:311][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-13.22.10:312][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-13.22.10:312][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-13.22.10:312][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-13.22.10:334][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-13.22.10:334][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-13.22.10:334][325]LogInit: FAudioDevice initialized.
+[2022.04.07-13.22.10:334][325]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2022.04.07-13.22.10:369][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.22.10:369][325]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.22.10:370][325]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.22.10:371][325]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.04.07-16.22.10
+[2022.04.07-13.22.10:372][325]LogWorld: Bringing up level for play took: 0.002270
+[2022.04.07-13.22.10:372][325]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.04.07-13.22.10:401][325]PIE: Server logged in
+[2022.04.07-13.22.10:402][325]PIE: Play in editor total start time 0,251 seconds.
+[2022.04.07-13.22.21:415][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.22.21:415][289]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.22.21:415][289]LogSlate: Window 'Erranelia Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.07-13.22.21:418][289]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.22.21:419][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.22.21:431][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-13.22.21:440][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.22.21:486][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.07-13.22.21:487][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.22.21:488][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.22.21:522][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.04.07-13.22.21:554][290]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.04.07-13.23.20:066][302]BlueprintLog: New page: Compile MyAnym
+[2022.04.07-13.23.20:189][302]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2022.04.07-13.23.21:079][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyAnym" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset" SILENT=true
+[2022.04.07-13.23.21:180][329]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyAnymB6F84DF04C6823E89C6F7D99A254539E.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyAnym.uasset'
+[2022.04.07-13.23.21:208][329]AssetCheck: New page: Asset Save: MyAnym
+[2022.04.07-13.23.21:208][329]LogContentValidation: Display: Validating AnimBlueprint /Game/MyContent/Character/MyAnym.MyAnym
+[2022.04.07-13.23.23:028][464]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.07-13.23.23:039][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.07-13.23.23:039][464]PIE: New page: PIE session: Level1 (7 апр. 2022 г., 19:23:23)
+[2022.04.07-13.23.23:040][464]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.23.23:046][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006335s)
+[2022.04.07-13.23.23:047][464]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.23.23:048][464]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2022.04.07-13.23.23:048][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.008316s)
+[2022.04.07-13.23.23:122][464]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2022.04.07-13.23.23:123][464]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.07-13.23.23:123][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-13.23.23:123][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-13.23.23:123][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-13.23.23:124][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-13.23.23:124][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-13.23.23:124][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-13.23.23:124][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-13.23.23:124][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-13.23.23:124][464]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.07-13.23.23:125][464]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-13.23.23:129][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-13.23.23:129][464]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-13.23.23:266][464]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.04.07-13.23.23:266][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-13.23.23:267][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-13.23.23:267][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-13.23.23:267][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-13.23.23:267][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-13.23.23:267][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-13.23.23:300][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-13.23.23:300][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-13.23.23:300][464]LogInit: FAudioDevice initialized.
+[2022.04.07-13.23.23:300][464]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2022.04.07-13.23.23:366][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.23.23:366][464]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.23.23:368][464]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.23.23:370][464]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.04.07-16.23.23
+[2022.04.07-13.23.23:371][464]LogWorld: Bringing up level for play took: 0.003553
+[2022.04.07-13.23.23:371][464]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.04.07-13.23.23:397][464]PIE: Server logged in
+[2022.04.07-13.23.23:399][464]PIE: Play in editor total start time 0,362 seconds.
+[2022.04.07-13.23.27:826][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.23.27:826][752]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.23.27:827][752]LogSlate: Window 'Erranelia Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.07-13.23.27:832][752]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.23.27:833][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.23.27:844][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-13.23.27:854][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.23.27:917][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.23.27:919][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.23.27:967][752]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2022.04.07-13.23.28:007][753]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.04.07-13.23.31:872][ 42]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.07-13.23.31:884][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.07-13.23.31:884][ 42]PIE: New page: PIE session: Level1 (7 апр. 2022 г., 19:23:31)
+[2022.04.07-13.23.31:884][ 42]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.23.31:890][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005769s)
+[2022.04.07-13.23.31:891][ 42]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.23.31:892][ 42]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2022.04.07-13.23.31:892][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.007585s)
+[2022.04.07-13.23.31:954][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.04.07-13.23.31:956][ 42]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.07-13.23.31:956][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-13.23.31:957][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-13.23.31:957][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.07-13.23.31:957][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-13.23.31:961][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-13.23.31:961][ 42]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-13.23.32:075][ 42]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.04.07-13.23.32:076][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-13.23.32:076][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-13.23.32:076][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-13.23.32:076][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-13.23.32:076][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-13.23.32:077][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-13.23.32:105][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-13.23.32:105][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-13.23.32:105][ 42]LogInit: FAudioDevice initialized.
+[2022.04.07-13.23.32:105][ 42]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2022.04.07-13.23.32:160][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.23.32:160][ 42]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.23.32:162][ 42]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.23.32:163][ 42]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.04.07-16.23.32
+[2022.04.07-13.23.32:164][ 42]LogWorld: Bringing up level for play took: 0.002758
+[2022.04.07-13.23.32:165][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.04.07-13.23.32:175][ 42]PIE: Server logged in
+[2022.04.07-13.23.32:177][ 42]PIE: Play in editor total start time 0,295 seconds.
+[2022.04.07-13.23.32:925][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.23.32:925][ 81]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.23.32:925][ 81]LogSlate: Window 'Erranelia Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.07-13.23.32:930][ 81]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.23.32:931][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.23.32:942][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-13.23.32:953][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.23.33:015][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.23.33:017][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.23.33:060][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2022.04.07-13.23.33:093][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.04.07-13.24.31:978][312]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.24.31:978][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.24.31:995][312]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.24.31:995][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.24.32:178][312]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.24.32:178][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.24.33:200][413]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.24.33:201][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.24.33:331][413]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.24.33:331][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.25.03:091][415]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.04.07-13.25.03:109][415]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.04.07-13.25.18:161][ 41]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S-SaveInventoryInfo
+[2022.04.07-13.25.18:329][ 41]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.04.07-13.25.19:924][220]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MyContent/Inventory/Structure/S-SaveInventoryInfo.S-SaveInventoryInfo
+[2022.04.07-13.25.59:775][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/Structure/S-SaveInventoryInfo" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S-SaveInventoryInfo.uasset" SILENT=true
+[2022.04.07-13.25.59:777][900]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/S-SaveInventoryInfo52F90DCC4BE6C1AE612419BB0F23D494.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/Structure/S-SaveInventoryInfo.uasset'
+[2022.04.07-13.26.00:247][900]AssetCheck: New page: Asset Save: S-SaveInventoryInfo
+[2022.04.07-13.26.00:247][900]LogContentValidation: Display: Validating UserDefinedStruct /Game/MyContent/Inventory/Structure/S-SaveInventoryInfo.S-SaveInventoryInfo
+[2022.04.07-13.26.39:949][ 55]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.26.40:125][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2022.04.07-13.26.40:663][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.26.40:672][ 90]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory3AB2008F4BFE3BF9F894E3A0D5F5FA53.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.26.40:688][ 90]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.26.40:688][ 90]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.27.43:663][936]LogContentBrowser: Attempting asset rename: S-SaveInventoryInfo -> S-SaveInventoryInfo
+[2022.04.07-13.28.06:877][518]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.28.06:972][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.04.07-13.28.07:698][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.28.07:707][578]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory665FA2344DEFB9681AB6EFA59C7E8511.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.28.07:721][578]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.28.07:721][578]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.28.39:191][985]BlueprintLog: New page: Compile BP_Inventory
+[2022.04.07-13.28.39:249][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.04.07-13.28.39:987][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.07-13.28.39:999][ 48]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_InventoryE2DB58E3473C94D7859648BEA83C184B.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.07-13.28.40:015][ 48]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.07-13.28.40:015][ 48]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.07-13.28.53:199][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Main/MyGI.MyGI
+[2022.04.07-13.29.07:261][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Main/MyController.MyController
+[2022.04.07-13.29.41:382][315]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/LoggingScreen.LoggingScreen
+[2022.04.07-13.29.45:817][360]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.29.45:832][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.29.45:866][360]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.29.45:866][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.29.52:206][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/LoadGameSlotWidget.LoadGameSlotWidget
+[2022.04.07-13.29.55:775][501]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.29.55:775][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.29.55:805][501]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.29.55:806][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.29.58:571][551]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/LoadGameMenuWidget.LoadGameMenuWidget
+[2022.04.07-13.30.06:143][701]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.06:144][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.06:163][701]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.06:163][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.11:780][806]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/MyMenuWidget.MyMenuWidget
+[2022.04.07-13.30.15:344][870]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.15:344][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.15:361][870]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.15:361][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.17:781][917]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/LoggingScreen.LoggingScreen
+[2022.04.07-13.30.19:614][942]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.19:614][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.19:631][942]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.30.19:631][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.30.21:102][970]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/LoadGameSlotWidget.LoadGameSlotWidget
+[2022.04.07-13.30.35:226][338]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyContent/UIX/Menu/SaveGameWidget.SaveGameWidget
+[2022.04.07-13.31.49:129][297]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2022.04.07-13.31.49:136][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Levels/Level1" FILE="D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Levels/Level1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.07-13.31.49:167][297]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/Level1_Auto5F75D27E247483DF9F70B36AE6BC53781.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Levels/Level1_Auto5.umap'
+[2022.04.07-13.31.49:215][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Levels/Level1' took 0.554
+[2022.04.07-13.31.49:215][297]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.554
+[2022.04.07-13.31.49:216][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Main/MyGI] ([1] browsable assets)...
+[2022.04.07-13.31.49:216][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Main/MyGI]
+[2022.04.07-13.31.49:216][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Main/MyGI" FILE="D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Main/MyGI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.04.07-13.31.49:395][297]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyGI_Auto53F02139F45EB02BD706896A77F6D0888.tmp' to 'D:/Erranelia/Erranelia/Saved/Autosaves/Game/MyContent/Main/MyGI_Auto5.uasset'
+[2022.04.07-13.31.49:396][297]LogFileHelpers: Auto-saving content packages took 0.181
+[2022.04.07-13.32.57:655][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter
+[2022.04.07-13.36.28:134][107]BlueprintLog: New page: Compile MyCharacter
+[2022.04.07-13.36.28:623][107]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2022.04.07-13.36.29:595][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Character/MyCharacter" FILE="D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset" SILENT=true
+[2022.04.07-13.36.29:700][114]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyCharacterD6CC6C2343534000023CA38AEA81E84C.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Character/MyCharacter.uasset'
+[2022.04.07-13.36.29:734][114]AssetCheck: New page: Asset Save: MyCharacter
+[2022.04.07-13.36.29:735][114]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Character/MyCharacter.MyCharacter
+[2022.04.07-13.36.31:152][158]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.36.31:152][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.37.10:238][868]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.37.10:685][874]LogEditorTransaction: Undo Delete current selection
+[2022.04.07-13.39.25:579][707]BlueprintLog: New page: Compile MyGI
+[2022.04.07-13.39.25:720][707]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2022.04.07-13.39.26:753][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Main/MyGI" FILE="D:/Erranelia/Erranelia/Content/MyContent/Main/MyGI.uasset" SILENT=true
+[2022.04.07-13.39.26:845][721]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/MyGIF38100D34D30FCBE8124569651FD4886.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Main/MyGI.uasset'
+[2022.04.07-13.39.26:931][721]AssetCheck: New page: Asset Save: MyGI
+[2022.04.07-13.39.26:931][721]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Main/MyGI.MyGI
+[2022.04.07-13.39.31:304][827]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.04.07-13.39.31:314][827]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.07-13.39.31:339][827]LogPlayLevel: [PlayLevel] Compiling SaveGameWidget before play...
+[2022.04.07-13.39.31:490][827]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2022.04.07-13.39.31:491][827]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2022.04.07-13.39.31:491][827]PIE: New page: PIE session: Level1 (7 апр. 2022 г., 19:39:31)
+[2022.04.07-13.39.31:491][827]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.39.31:496][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004748s)
+[2022.04.07-13.39.31:497][827]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.39.31:497][827]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2022.04.07-13.39.31:497][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.006139s)
+[2022.04.07-13.39.31:559][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.04.07-13.39.31:559][827]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.07-13.39.31:559][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-13.39.31:559][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-13.39.31:560][827]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.07-13.39.31:560][827]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.07-13.39.31:563][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.07-13.39.31:563][827]LogAudioMixer: Display: 1: FrontRight
+[2022.04.07-13.39.31:651][827]LogAudioMixer: Display: Using Audio Device Динамики / головные телефоны (Realtek Audio)
+[2022.04.07-13.39.31:651][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-13.39.31:651][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-13.39.31:651][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-13.39.31:652][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.07-13.39.31:652][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.07-13.39.31:652][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.07-13.39.31:653][827]LogInit: FAudioDevice initialized.
+[2022.04.07-13.39.31:653][827]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2022.04.07-13.39.31:693][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.07-13.39.31:693][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.07-13.39.31:700][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.39.31:700][827]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.39.31:701][827]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.39.31:703][827]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.04.07-16.39.31
+[2022.04.07-13.39.31:704][827]LogWorld: Bringing up level for play took: 0.002423
+[2022.04.07-13.39.31:704][827]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.04.07-13.39.31:712][827]PIE: Server logged in
+[2022.04.07-13.39.31:713][827]PIE: Play in editor total start time 0,401 seconds.
+[2022.04.07-13.39.39:411][937]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.07-13.39.39:411][937]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.07-13.39.39:411][937]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.07-13.39.42:403][981]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.07-13.39.42:404][981]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.07-13.39.42:404][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.39.45:491][ 27]LogNet: Browse: /Game/MyContent/Levels/Level1
+[2022.04.07-13.39.45:501][ 27]LogLoad: LoadMap: /Game/MyContent/Levels/Level1
+[2022.04.07-13.39.45:501][ 27]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.39.45:505][ 27]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.39.45:505][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.39.45:563][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.07-13.39.45:569][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.04.07-13.39.45:605][ 27]LogPlayLevel: Creating play world package: /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.39.45:609][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004080s)
+[2022.04.07-13.39.45:610][ 27]LogAIModule: Creating AISystem for world Level1
+[2022.04.07-13.39.45:610][ 27]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2022.04.07-13.39.45:610][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Levels/Level1.Level1 to /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 (0.005456s)
+[2022.04.07-13.39.45:610][ 27]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2022.04.07-13.39.45:610][ 27]LogLoad: Game class is 'MyGM_C'
+[2022.04.07-13.39.45:611][ 27]LogPhysics: Warning: Scale for /Game/MyContent/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.test_14.Cube has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=5.750 Z=0.000
+[2022.04.07-13.39.45:613][ 27]LogWorld: Bringing World /Game/MyContent/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.04.07-16.39.45
+[2022.04.07-13.39.45:613][ 27]LogWorld: Bringing up level for play took: 0.002267
+[2022.04.07-13.39.45:671][ 27]LogLoad: Took 0.169979 seconds to LoadMap(/Game/MyContent/Levels/UEDPIE_0_Level1)
+[2022.04.07-13.39.50:725][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-13.39.50:725][103]LogWorld: BeginTearingDown for /Game/MyContent/Levels/UEDPIE_0_Level1
+[2022.04.07-13.39.50:725][103]LogSlate: Window 'Erranelia Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.07-13.39.50:779][103]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.39.50:779][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.39.50:793][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.07-13.39.50:801][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.39.50:865][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.39.50:866][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.07-13.39.50:901][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.04.07-13.39.50:927][104]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.04.07-13.40.19:738][326]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.40.19:739][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.40.19:753][326]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.40.19:753][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.40.21:887][400]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.40.21:887][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.40.21:900][400]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.40.21:900][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.41.16:695][958]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.07-13.41.16:695][958]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.41.16:695][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-13.41.23:852][135]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-13.41.23:853][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
