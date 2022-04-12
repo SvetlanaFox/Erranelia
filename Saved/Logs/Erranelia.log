@@ -1609,3 +1609,9 @@ Script call stack:
 [2022.04.12-09.44.38:461][959]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory340A77C64EEF4D5E9A32C0916AFDA219.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
 [2022.04.12-09.44.38:477][959]AssetCheck: New page: Asset Save: BP_Inventory
 [2022.04.12-09.44.38:477][959]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
+[2022.04.12-09.48.54:181][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2022.04.12-09.48.55:254][710]LogSlate: Window 'Save Content' being destroyed
+[2022.04.12-09.48.55:400][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Inventory/BP/BP_Inventory" FILE="D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset" SILENT=true
+[2022.04.12-09.48.55:429][710]LogSavePackage: Moving 'D:/Erranelia/Erranelia/Saved/BP_Inventory4CEDF4424678FB4C418644B60FA585E7.tmp' to 'D:/Erranelia/Erranelia/Content/MyContent/Inventory/BP/BP_Inventory.uasset'
+[2022.04.12-09.48.55:467][710]AssetCheck: New page: Asset Save: BP_Inventory
+[2022.04.12-09.48.55:467][710]LogContentValidation: Display: Validating Blueprint /Game/MyContent/Inventory/BP/BP_Inventory.BP_Inventory
