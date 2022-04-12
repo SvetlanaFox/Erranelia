@@ -13029,34 +13029,3 @@ Script call stack:
 Script Stack (0 frames):
 
 [2022.04.12-13.41.27:738][125]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
-[2022.04.12-13.41.36:937][125]LogWindows: Error: === Critical error: ===
-[2022.04.12-13.41.36:937][125]LogWindows: Error: 
-[2022.04.12-13.41.36:937][125]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EditorEngine.cpp] [Line: 7234] 
-[2022.04.12-13.41.36:937][125]LogWindows: Error: Previously active world /Engine/Transient.World_45 not cleaned up by garbage collection! Referenced by:
-[2022.04.12-13.41.36:937][125]LogWindows: Error: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
-[2022.04.12-13.41.36:937][125]LogWindows: Error:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
-[2022.04.12-13.41.36:937][125]LogWindows: Error:   World /Engine/Transient.World_45
-[2022.04.12-13.41.36:937][125]LogWindows: Error: 
-[2022.04.12-13.41.36:937][125]LogWindows: Error: 
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffc02db4f69 KERNELBASE.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb9a36d066 UE4Editor-Core.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb9a3707a8 UE4Editor-Core.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb9a07e8cd UE4Editor-Core.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb973addd2 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb6b2cba02 UE4Editor-Engine.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb6b278502 UE4Editor-Engine.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb6b2ea7fd UE4Editor-Engine.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb973a8ef2 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffb97cc50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ff7e06c9bc2 UE4Editor.exe!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ff7e06e117c UE4Editor.exe!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ff7e06e125a UE4Editor.exe!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ff7e06f52bd UE4Editor.exe!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ff7e06f7fea UE4Editor.exe!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffc03e77034 KERNEL32.DLL!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: [Callstack] 0x00007ffc05222651 ntdll.dll!UnknownFunction []
-[2022.04.12-13.41.36:937][125]LogWindows: Error: 
-[2022.04.12-13.41.37:003][125]LogExit: Executing StaticShutdownAfterError
-[2022.04.12-13.41.37:541][125]LogWindows: FPlatformMisc::RequestExit(1)
-[2022.04.12-13.41.37:541][125]LogCore: Engine exit requested (reason: Win RequestExit)
-[2022.04.12-13.41.37:583][125]Log file closed, 04/12/22 16:41:37
